@@ -73,7 +73,7 @@ public class Config {
 
     // BASE URL
     public static String BASE_URL = "https://excellentcareelectronic.com/api/";
-    public static String IMAGE_URL = "https://excellentcareelectronic.com/api";
+    public static String IMAGE_URL = "https://excellentcareelectronic.com/";
 
     public static String Login = BASE_URL + "login";
     public static String SignUP = BASE_URL + "signUp";
