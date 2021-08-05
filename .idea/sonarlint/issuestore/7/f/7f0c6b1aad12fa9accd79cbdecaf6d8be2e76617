@@ -1,0 +1,145 @@
+
+Z
+java:S1155ü">Use isEmpty() to check whether the collection is empty or not.(¦Áøÿÿÿÿ
+R	java:S125ğ"<This block of commented-out lines of code should be removed.(Ê­ô¸
+Z
+java:S1155Â">Use isEmpty() to check whether the collection is empty or not.(¦Áøÿÿÿÿ
+R	java:S125µ"<This block of commented-out lines of code should be removed.(ŒÑÂ
+D
+java:S1604¨"(Make this anonymous inner class a lambda(«æ•·ÿÿÿÿÿ
+k	java:S116P"QRename this field "ll_loc" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çİüêúÿÿÿÿ
+^
+java:S1192 "GDefine a constant instead of duplicating this literal "getlat" 4 times.(çø’ˆ
+Q	java:S110="<This class has 9 parents which is greater than 5 authorized.(ôÛ¯Æ
+Z
+java:S1155›">Use isEmpty() to check whether the collection is empty or not.(¦Áøÿÿÿÿ
+U
+java:S1874±">Remove this use of "setBottomSheetCallback"; it is deprecated.(‡Ø¼š
+N
+java:S1135ä"2Complete the task associated to this TODO comment.(áÃæùÿÿÿÿ
+B
+java:S1659E"'Declare "longitude" on a separate line.(àˆÁşÿÿÿÿ
+T
+java:S1117ı"=Rename "addresses" which hides the field declared at line 68.(é¤³
+Q
+java:S1161Ò":Add the "@Override" annotation above this method signature(öÿÕÅ
+T
+java:S1117•"=Rename "addresses" which hides the field declared at line 68.(é¤³
+Q	java:S125U"<This block of commented-out lines of code should be removed.(êæ¥©
+W	java:S125İ"<This block of commented-out lines of code should be removed.(ÓáË¼ûÿÿÿÿ
+E
+java:S1068P"*Remove this unused "ll_loc" private field.(çİüêúÿÿÿÿ
+c
+java:S2259Ç"GA "NullPointerException" could be thrown; "addresses" is nullable here.(Éä–şÿÿÿÿ
+=	java:S131´""Add a default case to this switch.(³ÒÂŒÿÿÿÿÿ
+D
+java:S1604Ö"(Make this anonymous inner class a lambda(ê¢›ııÿÿÿÿ
+B
+java:S3011",This accessibility update should be removed.(ÏËÀ
+?
+java:S1604à"(Make this anonymous inner class a lambda(˜»˜À
+D
+java:S1199¸"-Extract this nested code block into a method.(¢Ò´¨
+@
+java:S1659E"%Declare "address" on a separate line.(àˆÁşÿÿÿÿ
+W	java:S125¯"<This block of commented-out lines of code should be removed.(×«÷öÿÿÿÿÿ
+?
+java:S1659N"$Declare "tLogin" on a separate line.(õ·­ùÿÿÿÿ
+?
+java:S1659P"$Declare "ll_loc" on a separate line.(çİüêúÿÿÿÿ
+n
+java:S3252ã"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(¥êêí
+W	java:S125İ"<This block of commented-out lines of code should be removed.(¾ì½íúÿÿÿÿ
+W	java:S125×"<This block of commented-out lines of code should be removed.(ÔÛğèùÿÿÿÿ
+?
+java:S1604÷"(Make this anonymous inner class a lambda(È¤ƒ—
+R	java:S125‡"<This block of commented-out lines of code should be removed.(¦‚Ä‡
+>
+java:S1659E"#Declare "state" on a separate line.(àˆÁşÿÿÿÿ
+C
+java:S1659E"(Declare "postalCode" on a separate line.(àˆÁşÿÿÿÿ
+m
+java:S3252¿"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(µ‰¯0
+b	java:S128®"LEnd this switch case with an unconditional break, return or throw statement.(“¯Ô
+R	java:S125Š"<This block of commented-out lines of code should be removed.(À™´Ü
+Z
+java:S1155–">Use isEmpty() to check whether the collection is empty or not.(¦Áøÿÿÿÿ
+^
+java:S1192¡"GDefine a constant instead of duplicating this literal "getlng" 4 times.(íÜãı
+<
+java:S1659C"&Declare "location" on a separate line.(ëÎº¢
+
+java:S1186Ì"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(…†±Úÿÿÿÿÿ
+N
+java:S1135Ÿ"2Complete the task associated to this TODO comment.(áÃæùÿÿÿÿ
+D
+java:S1659B")Declare "city_linear" on a separate line.(õ€ğÔıÿÿÿÿ
+T
+java:S1117"=Rename "addresses" which hides the field declared at line 68.(é¤³
+R	java:S125Û"<This block of commented-out lines of code should be removed.(ò¥·ı
+=	java:S131û""Add a default case to this switch.(Ò“ÿšùÿÿÿÿ
+W	java:S125œ"<This block of commented-out lines of code should be removed.(Ÿœº­øÿÿÿÿ
+?
+java:S1604š"(Make this anonymous inner class a lambda(È¤ƒ—
+T
+java:S1117ö"=Rename "addresses" which hides the field declared at line 68.(é¤³
+R	java:S125¬"<This block of commented-out lines of code should be removed.(Ê­ô¸
+D
+java:S1604¦"(Make this anonymous inner class a lambda(ğ“ê¬øÿÿÿÿ
+@
+java:S1659N"%Declare "tSignUP" on a separate line.(õ·­ùÿÿÿÿ
+Z
+java:S1155ƒ">Use isEmpty() to check whether the collection is empty or not.(¦Áøÿÿÿÿ
+=
+java:S1659E""Declare "city" on a separate line.(àˆÁşÿÿÿÿ
+n
+java:S3252ã"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(¥êêí
+2
+java:S3626¡"Remove this redundant jump.(ûÁİ…
+W	java:S125÷"<This block of commented-out lines of code should be removed.(Šî¥Éùÿÿÿÿ
+W	java:S125õ"<This block of commented-out lines of code should be removed.(£°Ïúÿÿÿÿ
+n
+java:S3252"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(¥êêí
+Q
+java:S1161ë":Add the "@Override" annotation above this method signature(ßû¢½
+I
+java:S1199½"-Extract this nested code block into a method.(ğË®Æÿÿÿÿÿ
+D
+java:S1604í"(Make this anonymous inner class a lambda(«æ•·ÿÿÿÿÿ
+D
+java:S1604ç"(Make this anonymous inner class a lambda(âÜì°ıÿÿÿÿ
+J
+java:S3740O"/Provide the parametrized type for this generic.(ª»Ú©şÿÿÿÿ
+8
+java:S1659C""Declare "skip" on a separate line.(ëÎº¢
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 61 to the 15 allowed.(¨Œşÿÿÿÿ
+a
+java:S1192Ÿ"JDefine a constant instead of duplicating this literal "getlatlng" 4 times.(Í‰Ã·
+T
+java:S1117¼"=Rename "addresses" which hides the field declared at line 68.(é¤³
+U
+java:S1117Í"9Rename "title" which hides the field declared at line 67.(¥Æ›åúÿÿÿÿ
+7
+java:S1659J"!Declare "lng" on a separate line.(ßé¾Ÿ
+n
+java:S3252"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(¥êêí
+W	java:S125÷"<This block of commented-out lines of code should be removed.(ï¹Šÿüÿÿÿÿ
+W	java:S125§"<This block of commented-out lines of code should be removed.(¾°ÿœüÿÿÿÿ
+=	java:S131""Add a default case to this switch.(Ò“ÿšùÿÿÿÿ
+@
+java:S1659E"%Declare "country" on a separate line.(àˆÁşÿÿÿÿ
+b	java:S128‹"LEnd this switch case with an unconditional break, return or throw statement.(“¯Ô
+p	java:S116B"VRename this field "city_linear" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ€ğÔıÿÿÿÿ
+T
+java:S1117İ"=Rename "addresses" which hides the field declared at line 68.(é¤³
+q	java:S116P"WRename this field "bottom_sheet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çİüêúÿÿÿÿ
+Q
+java:S1118û":Add a private constructor to hide the implicit public one.(Ìãê¢
+H
+java:S3011‚",This accessibility bypass should be removed.(†Ó÷ûùÿÿÿÿ
+v
+java:S1450P"[Remove the "bottom_sheet" field and declare it as a local variable in the relevant methods.(çİüêúÿÿÿÿ
+R	java:S125·"<This block of commented-out lines of code should be removed.(Ñ›¤Ç
+Z
+java:S1155ã">Use isEmpty() to check whether the collection is empty or not.(¦Áøÿÿÿÿ

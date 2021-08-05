@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Excellent Care Electronics</string>
+    <string name="rapid">Excellent Care Electronics</string>
+    <string name="appwelcome">Welcome to Excellent Care Electronics</string>
+    <string name="aboutApp">About Excellent Care Electronics</string>
+    <string name="Insuranceplan">Excellent Care Electronics Insurance Protection Program</string>
+
+    <string name="map_api_key">AIzaSyASGgORV4ha58RbDjnB-yaOBudfghjk</string>
+
+    <string name="currency">\u20B9</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="start">Get Started</string>
+    <string name="we_provide_over_100_services_at_your_doorstep">We provide over 100+ services \nat your doorstep</string>
+    <string name="_1_million_happy_customers">1 Million+ \nHappy Customers</string>
+    <string name="_1000_trusted_service_professionals">1000+ Trusted \nService Professionals</string>
+    <string name="we_have_send_4_digit_code_on_91_862734223">We have send 4 digit code</string>
+    <string name="otpInfo">We have send you OTP on your mobile number.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="beauty_amp_spa"><![CDATA[Beauty & Spa]]></string>
+    <string name="_15"><strike>$15</strike></string>
+    <string name="_30"><strike>$30</strike></string>
+    <string name="connection_time_out">Connection Time Out</string>
+    <string name="material_calendar_monday">MO</string>
+    <string name="material_calendar_tuesday">TU</string>
+    <string name="material_calendar_wednesday">WE</string>
+    <string name="material_calendar_thursday">TH</string>
+    <string name="material_calendar_friday">FR</string>
+    <string name="material_calendar_saturday">SA</string>
+    <string name="material_calendar_sunday">SU</string>
+
+    <string name="key_for_places">AIzaSyASGgORV4ha58RbDjnB-yaOBuoPdfghj</string>
+
+</resources>

@@ -1,0 +1,40 @@
+
+H
+java:S1874U"2Remove this use of "setMessage"; it is deprecated.(ç‡ŸÇ
+C
+java:S1604\"(Make this anonymous inner class a lambda(Êœüûÿÿÿÿ
+H
+java:S1481 "1Remove this unused "tag_json_obj" local variable.(Ä´‚º
+Q
+java:S1874T"6Remove this use of "ProgressDialog"; it is deprecated.(¿Ú•ğúÿÿÿÿ
+H
+java:S1481â"1Remove this unused "tag_json_obj" local variable.(Ä´‚º
+?
+java:S1604ê"(Make this anonymous inner class a lambda(Îê–Ê
+u
+java:S2293ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ
+W
+java:S1854 "@Remove this useless assignment to local variable "tag_json_obj".(Ä´‚º
+u
+java:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ
+L
+java:S1874@"6Remove this use of "ProgressDialog"; it is deprecated.(ğİıº
+g	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä´‚º
+g	java:S1010"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(û•Ä¨üÿÿÿÿ
+V	java:S1100"<This class has 9 parents which is greater than 5 authorized.(û•Ä¨üÿÿÿÿ
+r	java:S116B"XRename this field "bottom_linear" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô«ÿĞşÿÿÿÿ
+K
+java:S1066‡"/Merge this if statement with the enclosing one.(ïÎóùÿÿÿÿ
+W
+java:S1854â"@Remove this useless assignment to local variable "tag_json_obj".(Ä´‚º
+D
+java:S1604Í"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+D
+java:S1604"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+K
+java:S1066Ó"/Merge this if statement with the enclosing one.(ïÎóùÿÿÿÿ
+n
+java:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(»‘»üÿÿÿÿ
+D
+java:S1604¦"(Make this anonymous inner class a lambda(ÆÄ¾µøÿÿÿÿ
+g	java:S117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä´‚º

@@ -1,0 +1,52 @@
+
+@
+java:S1659"%Declare "number1" on a separate line.(ØüíÀúÿÿÿÿ
+>
+java:S1604f"(Make this anonymous inner class a lambda(ÁŽè¾
+F
+java:S1874M"0Remove this use of "getColor"; it is deprecated.(òó­
+E
+java:S1874L"0Remove this use of "getColor"; it is deprecated.(½ýë9
+F
+java:S1874\"0Remove this use of "getColor"; it is deprecated.(òó­
+x
+java:S1192Q"bDefine a constant instead of duplicating this literal "Mehendi Artist for Bride & Guests" 3 times.(´ØÚÍ
+F
+java:S1874("0Remove this use of "getColor"; it is deprecated.(—Žåù
+K
+java:S1874%"0Remove this use of "getColor"; it is deprecated.(ú®£øÿÿÿÿ
+F
+java:S1874?"0Remove this use of "getColor"; it is deprecated.(òó­
+F
+java:S1874Y"0Remove this use of "getColor"; it is deprecated.(õ™öÑ
+M
+java:S39726"7Move this "if" to a new line or add the missing "else".(Çì’À
+M
+java:S3972T"7Move this "if" to a new line or add the missing "else".(íéçô
+C
+java:S1604n"(Make this anonymous inner class a lambda(œÓÅÍûÿÿÿÿ
+F
+java:S18744"0Remove this use of "getColor"; it is deprecated.(òó­
+F
+java:S1874J"0Remove this use of "getColor"; it is deprecated.(õ™öÑ
+?
+java:S1659"$Declare "number" on a separate line.(ØüíÀúÿÿÿÿ
+h	java:S116"SRename this field "back_img" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÅ´
+F
+java:S1874'"0Remove this use of "getColor"; it is deprecated.(‰¸ÀÒ
+E
+java:S18743"0Remove this use of "getColor"; it is deprecated.(½ýë9
+E
+java:S1874["0Remove this use of "getColor"; it is deprecated.(½ýë9
+:
+java:S1659"$Declare "search" on a separate line.(ÓÅ´
+E
+java:S1874>"0Remove this use of "getColor"; it is deprecated.(½ýë9
+V	java:S110"<This class has 9 parents which is greater than 5 authorized.(™œçüÿÿÿÿ
+Q	java:S125s"<This block of commented-out lines of code should be removed.(¹Í–
+F
+java:S1874<"0Remove this use of "getColor"; it is deprecated.(õ™öÑ
+M
+java:S3972R"7Move this "if" to a new line or add the missing "else".(ûÌüÒ
+F
+java:S18741"0Remove this use of "getColor"; it is deprecated.(õ™öÑ

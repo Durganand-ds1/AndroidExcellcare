@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281409143740",
+    "project_id": "excellent-care-4355d",
+    "storage_bucket": "excellent-care-4355d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281409143740:android:255f78b4404b0897c5a1b9",
+        "android_client_info": {
+          "package_name": "com.tecmanic.goservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281409143740-0c4bjhv743rqnhm5almvn3pp5j9d6rnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAmzMHuYI9Y0AOTABSOzHAIkvWGfiFpuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281409143740-0c4bjhv743rqnhm5almvn3pp5j9d6rnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

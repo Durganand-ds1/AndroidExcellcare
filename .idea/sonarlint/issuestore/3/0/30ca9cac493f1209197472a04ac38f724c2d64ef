@@ -1,0 +1,155 @@
+
+h
+java:S1192±"JDefine a constant instead of duplicating this literal "time_slot" 4 times.(Ψώ³8Έ°Αυρ.
+x
+java:S1192h"VDefine a constant instead of duplicating this literal "Select Payment Method" 5 times.(Ψƒηνόÿÿÿÿ8Έ°Αυρ.
+p
+java:S1192³"MDefine a constant instead of duplicating this literal "payment_mode" 4 times.(„’Ίϋÿÿÿÿ8Έ°Αυρ.
+d
+java:S1192―"FDefine a constant instead of duplicating this literal "price" 4 times.(™φΓ8Έ°Αυρ.
+k
+java:S1192²"MDefine a constant instead of duplicating this literal "confirmed_on" 4 times.(›Υΰύ8Ή°Αυρ.
+m
+java:S1192d"KDefine a constant instead of duplicating this literal "address_id" 3 times.(Οψόÿÿÿÿ8Ή°Αυρ.
+W	java:S1100"<This class has 9 parents which is greater than 5 authorized.(”ίΕb8Ή°Αυρ.
+h	java:S1010"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(”ίΕb8Ή°Αυρ.
+\
+java:S1155Δ">Use isEmpty() to check whether the collection is empty or not.(Ι†¦Θ8Ή°Αυρ.
+n	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÿ—8Ή°Αυρ.
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÿ—8Ή°Αυρ.
+F
+java:S1604Ί"(Make this anonymous inner class a lambda(ΑθΎ8Ή°Αυρ.
+F
+java:S1604Τ"(Make this anonymous inner class a lambda( ώΪλ8Ή°Αυρ.
+K
+java:S1604»"(Make this anonymous inner class a lambda(Υξ³Ξωÿÿÿÿ8Ή°Αυρ.
+K
+java:S1604γ"(Make this anonymous inner class a lambda(΄Έ©”όÿÿÿÿ8Ή°Αυρ.
+K
+java:S1604–"(Make this anonymous inner class a lambda(Υξ³Ξωÿÿÿÿ8Ή°Αυρ.
+K
+java:S1604Ώ"(Make this anonymous inner class a lambda(΄Έ©”όÿÿÿÿ8Ή°Αυρ.
+U
+java:S2589"7Remove this expression which always evaluates to "true"(ΘΨ²8Ή°Αυρ.
+U
+java:S2589δ"7Remove this expression which always evaluates to "true"(ΘΨ²8Ή°Αυρ.
+V
+java:S2589η"8Remove this expression which always evaluates to "false"(ΐÿΗα8Ή°Αυρ.
+A
+java:S16592"$Declare "number" on a separate line.(ª¨«8Ή°Αυρ.
+B
+java:S16592"%Declare "number1" on a separate line.(ª¨«8Ή°Αυρ.
+D
+java:S16592"'Declare "place_req" on a separate line.(ª¨«8Ή°Αυρ.
+A
+java:S16593"$Declare "search" on a separate line.(ΣΕ΄8Ή°Αυρ.
+M
+java:S16595"+Declare "bottom_linear" on a separate line.(α“ΈΈύÿÿÿÿ8Ή°Αυρ.
+G
+java:S16596"%Declare "gettime" on a separate line.(Οψ…ώÿÿÿÿ8Ή°Αυρ.
+G
+java:S16596"%Declare "getdate" on a separate line.(Οψ…ώÿÿÿÿ8Ή°Αυρ.
+I
+java:S16596"'Declare "addressid" on a separate line.(Οψ…ώÿÿÿÿ8Ή°Αυρ.
+C
+java:S1659<"&Declare "rb_debit" on a separate line.(‹ΣΡΆ8Ή°Αυρ.
+D
+java:S1659<"'Declare "rb_credit" on a separate line.(‹ΣΡΆ8Ή°Αυρ.
+H
+java:S1659<"+Declare "rb_netbanking" on a separate line.(‹ΣΡΆ8Ή°Αυρ.
+p	java:S1162"TRename this field "place_req" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¨«8Ή°Αυρ.
+o	java:S1163"SRename this field "back_img" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΣΕ΄8Ή°Αυρ.
+y	java:S1165"XRename this field "bottom_linear" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(α“ΈΈύÿÿÿÿ8Ή°Αυρ.
+v	java:S1166"URename this field "getuser_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Οψ…ώÿÿÿÿ8Ή°Αυρ.
+n	java:S116<"RRename this field "rb_cash" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ΣΡΆ8Ή°Αυρ.
+o	java:S116<"SRename this field "rb_debit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ΣΡΆ8Ή°Αυρ.
+p	java:S116<"TRename this field "rb_credit" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ΣΡΆ8Ή°Αυρ.
+t	java:S116<"XRename this field "rb_netbanking" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ΣΡΆ8Ή°Αυρ.
+o	java:S116?"SRename this field "tv_price" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ρΐ©¥8Ή°Αυρ.
+y	java:S116@"]Rename this field "session_management" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΨÒιί8Ή°Αυρ.
+S
+java:S1874>"6Remove this use of "ProgressDialog"; it is deprecated.(πέύΊ8Ή°Αυρ.
+t
+java:S3776F"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(¨ώÿÿÿÿ8Ή°Αυρ.
+X
+java:S1874J"6Remove this use of "ProgressDialog"; it is deprecated.(ΏΪ•πϊÿÿÿÿ8Ή°Αυρ.
+O
+java:S1874L"2Remove this use of "setMessage"; it is deprecated.(η‡Η8Ή°Αυρ.
+M
+java:S1874r"0Remove this use of "getColor"; it is deprecated.(υ™φΡ8Ή°Αυρ.
+L
+java:S1874t"0Remove this use of "getColor"; it is deprecated.(½ύλ98Ή°Αυρ.
+M
+java:S1874u"0Remove this use of "getColor"; it is deprecated.(ςσ­8Ή°Αυρ.
+M
+java:S1874~"0Remove this use of "getColor"; it is deprecated.(υ™φΡ8Ή°Αυρ.
+M
+java:S1874€"0Remove this use of "getColor"; it is deprecated.(½ύλ98Ή°Αυρ.
+N
+java:S1874"0Remove this use of "getColor"; it is deprecated.(ςσ­8Ή°Αυρ.
+N
+java:S1874"0Remove this use of "getColor"; it is deprecated.(υ™φΡ8Ή°Αυρ.
+M
+java:S1874"0Remove this use of "getColor"; it is deprecated.(½ύλ98Ή°Αυρ.
+N
+java:S1874"0Remove this use of "getColor"; it is deprecated.(ςσ­8Ή°Αυρ.
+N
+java:S1874•"0Remove this use of "getColor"; it is deprecated.(υ™φΡ8Ή°Αυρ.
+M
+java:S1874—"0Remove this use of "getColor"; it is deprecated.(½ύλ98Ή°Αυρ.
+N
+java:S1874"0Remove this use of "getColor"; it is deprecated.(ςσ­8Ή°Αυρ.
+N
+java:S1874΅"0Remove this use of "getColor"; it is deprecated.(υ™φΡ8Ή°Αυρ.
+M
+java:S1874£"0Remove this use of "getColor"; it is deprecated.(½ύλ98Ή°Αυρ.
+N
+java:S1874¤"0Remove this use of "getColor"; it is deprecated.(ςσ­8Ή°Αυρ.
+[
+java:S1854ΰ"8Remove this useless assignment to local variable "name".(ε©ϋÿÿÿÿ8Ή°Αυρ.
+\
+java:S1854α"9Remove this useless assignment to local variable "price".( ­—γϋÿÿÿÿ8Ή°Αυρ.
+K	java:S108ξ")Either remove or fill this block of code.(χΏ­Ήÿÿÿÿÿ8Ή°Αυρ.
+[
+java:S1854™"8Remove this useless assignment to local variable "name".(ε©ϋÿÿÿÿ8Ή°Αυρ.
+\
+java:S1854"9Remove this useless assignment to local variable "price".( ­—γϋÿÿÿÿ8Ή°Αυρ.
+u
+java:S3776‹"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(δΛΝΡωÿÿÿÿ8Ή°Αυρ.
+K	java:S108£")Either remove or fill this block of code.(χΏ­Ήÿÿÿÿÿ8Ή°Αυρ.
+^
+java:S1854¬"@Remove this useless assignment to local variable "tag_json_obj".(²ÿ—8Ή°Αυρ.
+g
+java:S4143΄"DVerify this is the key that was intended; it was already set before.(­ΐΛΎϊÿÿÿÿ8Ή°Αυρ.
+|
+java:S2293­"YReplace the type specification in this constructor call with the diamond operator ("<>").(τ›Σνόÿÿÿÿ8Ή°Αυρ.
+¤
+java:S1186€"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Φ θώÿÿÿÿ8Ή°Αυρ.
+^
+java:S1854"@Remove this useless assignment to local variable "tag_json_obj".(²ÿ—8Ή°Αυρ.
+g
+java:S4143"DVerify this is the key that was intended; it was already set before.(­ΐΛΎϊÿÿÿÿ8Ή°Αυρ.
+|
+java:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(τ›Σνόÿÿÿÿ8Ή°Αυρ.
+¤
+java:S1186Ω"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Φ θώÿÿÿÿ8Ή°Αυρ.
+_
+java:S1874δ"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(Ϋ΅Ηψÿÿÿÿ8Ή°Αυρ.
+_
+java:S1874δ"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(Ϋ΅Ηψÿÿÿÿ8Ή°Αυρ.
+V
+java:S1874δ"3Remove this use of "isConnected"; it is deprecated.(Ϋ΅Ηψÿÿÿÿ8Ή°Αυρ.
+L
+java:S1481ΰ")Remove this unused "name" local variable.(ε©ϋÿÿÿÿ8Ή°Αυρ.
+M
+java:S1481α"*Remove this unused "price" local variable.( ­—γϋÿÿÿÿ8Ή°Αυρ.
+L
+java:S1481™")Remove this unused "name" local variable.(ε©ϋÿÿÿÿ8Ή°Αυρ.
+M
+java:S1481"*Remove this unused "price" local variable.( ­—γϋÿÿÿÿ8Ή°Αυρ.
+O
+java:S1481¬"1Remove this unused "tag_json_obj" local variable.(²ÿ—8Ή°Αυρ.
+O
+java:S1481"1Remove this unused "tag_json_obj" local variable.(²ÿ—8Ή°Αυρ.
+T
+java:S1144‹"1Remove this unused private "attemptOrder" method.(δΛΝΡωÿÿÿÿ8Ή°Αυρ.

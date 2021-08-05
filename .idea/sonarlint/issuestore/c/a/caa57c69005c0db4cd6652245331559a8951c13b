@@ -1,0 +1,24 @@
+
+j	java:S1165"URename this field "linear_add" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„‰‡²
+W
+java:S1854n":Remove this useless assignment to local variable "status".(©©­ı8·Ñ×ôñ.
+>
+java:S16594"#Declare "tdesc" on a separate line.(€ş±òûÿÿÿÿ
+¤
+java:S1186›"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö èşÿÿÿÿ8·Ñ×ôñ.
+S
+java:S2696q"6Make the enclosing method "static" or remove this set.(¯¾ô¬8Åôó¾ô.
+J
+java:S1604~"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8·Ñ×ôñ.
+¤
+java:S1186€"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£µ¢›ÿÿÿÿÿ8·Ñ×ôñ.
+T
+java:S1854o"7Remove this useless assignment to local variable "msg".(Ü„8·Ñ×ôñ.
+H
+java:S1481n"+Remove this unused "status" local variable.(©©­ı8·Ñ×ôñ.
+E
+java:S1481o"(Remove this unused "msg" local variable.(Ü„8·Ñ×ôñ.
+n	java:S116-"TRename this field "OfferList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ‡ÙŞûÿÿÿÿ
+E
+java:S1604h"(Make this anonymous inner class a lambda(İÄîâ8·Ñ×ôñ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹ÌèÎ

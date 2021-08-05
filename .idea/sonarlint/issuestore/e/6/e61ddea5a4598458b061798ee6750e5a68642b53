@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(πÃËŒ
+>
+java:S1604P"(Make this anonymous inner class a lambda(÷πô∫
+j
+java:S1104."TMake ProdNAme a static final constant or non-public and provide accessors if needed.(€Ï≥„
+h	java:S116."SRename this field "ProdNAme" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€Ï≥„
+Q	java:S125"<This block of commented-out lines of code should be removed.(—àÖÀ
+Q	java:S125M"<This block of commented-out lines of code should be removed.(‡ﬂÛ˚
+Q	java:S125W"<This block of commented-out lines of code should be removed.(»ﬁ‚ã

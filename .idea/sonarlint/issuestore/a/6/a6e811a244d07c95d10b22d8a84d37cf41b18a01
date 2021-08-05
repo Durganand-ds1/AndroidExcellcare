@@ -1,0 +1,73 @@
+
+?
+java:S1604¯"(Make this anonymous inner class a lambda(³ù £
+N
+java:S1197Z"8Move the array designator from the variable to the type.(úª©¡
+k
+java:S1192õ"HDefine a constant instead of duplicating this literal "city_id" 3 times.(óÄõ²úÿÿÿÿ8š’åøñ.
+V
+java:S1874ş"3Remove this use of "isConnected"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ8ƒÏšÆô.
+B
+java:S1659H"'Declare "androidID" on a separate line.(‰ï›Áşÿÿÿÿ
+F
+java:S1604æ"(Make this anonymous inner class a lambda(É™ë¦8¦‰ãóñ.
+¤
+java:S1186Š"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«òù›ÿÿÿÿÿ8¦‰ãóñ.
+l
+java:S3252Œ"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(’ÊİÁşÿÿÿÿ
+D
+java:S1604Ü"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+D
+java:S1604©"(Make this anonymous inner class a lambda(¥Í¤ïıÿÿÿÿ
+C
+java:S1659T"&Declare "cityName" on a separate line.(ª¥Ğ€8œÙóñ.
+K
+java:S1604•"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8¦‰ãóñ.
+:
+java:S1659E"$Declare "eEmail" on a separate line.(é€˜Ğ
+g	java:S117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¤¡ı
+q	java:S116Y"WRename this field "country_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤åÃĞûÿÿÿÿ
+Q	java:S110C"<This class has 9 parents which is greater than 5 authorized.(˜£‡
+N
+java:S1197W"8Move the array designator from the variable to the type.(øÆÙ
+S
+java:S1197Y"8Move the array designator from the variable to the type.(¤åÃĞûÿÿÿÿ
+Q
+java:S1874d"6Remove this use of "ProgressDialog"; it is deprecated.(¿Ú•ğúÿÿÿÿ
+s	java:S117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£†ÿ¾ÿÿÿÿÿ8ƒÏšÆô.
+
+java:S1186Ş"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£µ¢›ÿÿÿÿÿ
+D
+java:S1604¸"(Make this anonymous inner class a lambda(Êœüûÿÿÿÿ
+l	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕëÎŸùÿÿÿÿ
+l
+java:S3252•"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(Ş®™õùÿÿÿÿ
+n	java:S116T"RRename this field "city_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¥Ğ€8œÙóñ.
+e
+java:S1192í"GDefine a constant instead of duplicating this literal "status" 3 times.(©©­ı8¦‰ãóñ.
+¤
+java:S1186—"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£µ¢›ÿÿÿÿÿ8¦‰ãóñ.
+9
+java:S1659E"#Declare "ePass" on a separate line.(é€˜Ğ
+l
+java:S3252Œ"PUse static access with "android.view.ViewGroup$LayoutParams" for "MATCH_PARENT".(’ÊİÁşÿÿÿÿ
+U
+java:S1854’"9Remove this useless assignment to local variable "width".(¾ñÆşÿÿÿÿ
+F
+java:S1481’"*Remove this unused "width" local variable.(¾ñÆşÿÿÿÿ
+;
+java:S1659E"%Declare "eMobile" on a separate line.(é€˜Ğ
+H
+java:S1874e"2Remove this use of "setMessage"; it is deprecated.(í™µø
+l	java:S116Z"WRename this field "country_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úª©¡
+?
+java:S1604€"(Make this anonymous inner class a lambda(–ïˆÒ
+L
+java:S1874G"6Remove this use of "ProgressDialog"; it is deprecated.(ğİıº
+g	java:S117¹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†–¢ 
+_
+java:S1874ş"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ8ƒÏšÆô.
+_
+java:S1874ş"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ8ƒÏšÆô.
+A
+java:S1659E"+Declare "erefferalCode" on a separate line.(é€˜Ğ

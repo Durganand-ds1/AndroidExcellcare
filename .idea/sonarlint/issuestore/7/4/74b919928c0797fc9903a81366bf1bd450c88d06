@@ -1,0 +1,101 @@
+
+@
+java:S1659I"%Declare "signOut" on a separate line.(€…Á®úÿÿÿÿ
+Q
+java:S1161¹":Add the "@Override" annotation above this method signature(öÿÕÅ
+<
+java:S1659K"&Declare "shareApp" on a separate line.(èĞÉÖ
+?
+java:S1068D")Remove this unused "title" private field.(œ³®…
+l	java:S117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò’ÀÔıÿÿÿÿ
+=
+java:S1659I""Declare "tmob" on a separate line.(€…Á®úÿÿÿÿ
+?
+java:S1659I"$Declare "temail" on a separate line.(€…Á®úÿÿÿÿ
+?
+java:S1604–"(Make this anonymous inner class a lambda(Ôöı²
+l	java:S117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯¤¦ìùÿÿÿÿ
+f	java:S117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Å t
+i
+java:S1450<"SRemove the "view" field and declare it as a local variable in the relevant methods.(ØÊ»¶
+X
+java:S1874·"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ
+D
+java:S1604¤"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+D
+java:S1604¬"(Make this anonymous inner class a lambda(›­Œ¶şÿÿÿÿ
+=
+java:S1659K"'Declare "myAddress" on a separate line.(èĞÉÖ
+C
+java:S1604~"(Make this anonymous inner class a lambda(êÿÄûşÿÿÿÿ
+7
+java:S1659K"!Declare "Faq" on a separate line.(èĞÉÖ
+u
+java:S2293ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ
+D
+java:S1068B")Remove this unused "image" private field.(³±õªşÿÿÿÿ
+L
+java:S1874L"6Remove this use of "ProgressDialog"; it is deprecated.(ğİıº
+S
+java:S1197B"8Move the array designator from the variable to the type.(³±õªşÿÿÿÿ
+o	java:S116K"ZRename this field "Termsconditions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èĞÉÖ
+R
+java:S1068>"<Remove this unused "homeCategoryModelClasses" private field.(Œ¾ü–
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¨ûÿÿÿÿ
+g	java:S117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¥«
+O
+java:S1874·"3Remove this use of "isConnected"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ
+W
+java:S1854ø";Remove this useless assignment to local variable "message".(ëè Øúÿÿÿÿ
+?
+java:S1604"(Make this anonymous inner class a lambda(ñÅñÃ
+?
+java:S1604¼"(Make this anonymous inner class a lambda(¥Š…
+?
+java:S1604ï"(Make this anonymous inner class a lambda(òÙÅ
+Q
+java:S1874W"6Remove this use of "ProgressDialog"; it is deprecated.(õ¹´ıüÿÿÿÿ
+D
+java:S1604‡"(Make this anonymous inner class a lambda(šò¨ûÿÿÿÿ
+g	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íË¤ì
+D
+java:S1604"(Make this anonymous inner class a lambda(ëÈ•”ÿÿÿÿÿ
+W
+java:S1854ı";Remove this useless assignment to local variable "user_id".(¯¤¦ìùÿÿÿÿ
+H
+java:S1481ø",Remove this unused "message" local variable.(ëè Øúÿÿÿÿ
+;
+java:S1659K"%Declare "aboutUs" on a separate line.(èĞÉÖ
+C
+java:S1659K"-Declare "Termsconditions" on a separate line.(èĞÉÖ
+f	java:S116K"QRename this field "RAteUs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èĞÉÖ
+M
+java:S1874X"2Remove this use of "setMessage"; it is deprecated.(ÔòÌøÿÿÿÿ
+c	java:S100Ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äşšq
+>
+java:S1659I"#Declare "tEdit" on a separate line.(€…Á®úÿÿÿÿ
+W
+java:S1854ë"@Remove this useless assignment to local variable "tag_json_obj".(¿¥«
+:
+java:S1659K"$Declare "RAteUs" on a separate line.(èĞÉÖ
+D
+java:S1604´"(Make this anonymous inner class a lambda(ÿ—º­øÿÿÿÿ
+=
+java:S1659K"'Declare "myBooking" on a separate line.(èĞÉÖ
+C
+java:S1604w"(Make this anonymous inner class a lambda(â½™÷ûÿÿÿÿ
+v
+java:S1450?"[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ıÿÿÿÿ
+X
+java:S1874·"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ
+G
+java:S1068@",Remove this unused "bAdapter" private field.(Ûª—ìüÿÿÿÿ
+H
+java:S1481ë"1Remove this unused "tag_json_obj" local variable.(¿¥«
+>
+java:S1604£"(Make this anonymous inner class a lambda(»«N
+H
+java:S1481ı",Remove this unused "user_id" local variable.(¯¤¦ìùÿÿÿÿ
+c	java:S116K"NRename this field "Faq" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èĞÉÖ
+N
+java:S1197D"8Move the array designator from the variable to the type.(œ³®…

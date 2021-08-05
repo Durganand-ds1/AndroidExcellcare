@@ -1,0 +1,44 @@
+
+:
+java:S16596"$Declare "search" on a separate line.(ÓÅ´
+L
+java:S1874T"6Remove this use of "ProgressDialog"; it is deprecated.(ğİıº
+K
+java:S1604†"(Make this anonymous inner class a lambda(ÆÄ¾µøÿÿÿÿ8ˆ¶¨µñ.
+S
+java:S1874È"0Remove this use of "getColor"; it is deprecated.(ú®£øÿÿÿÿ8ˆ¶¨µñ.
+Q
+java:S1874["6Remove this use of "ProgressDialog"; it is deprecated.(¿Ú•ğúÿÿÿÿ
+K
+java:S1604¹"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8ˆ¶¨µñ.
+N
+java:S1874Ê"0Remove this use of "getColor"; it is deprecated.(‰¸ÀÒ8ˆ¶¨µñ.
+|
+java:S2293‚"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ8ˆ¶¨µñ.
+^
+java:S1854€"@Remove this useless assignment to local variable "tag_json_obj".(Ä´‚º8ˆ¶¨µñ.
+r	java:S116G"XRename this field "bottom_linear" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô«ÿĞşÿÿÿÿ
+M
+java:S1874\"2Remove this use of "setMessage"; it is deprecated.(ÔòÌøÿÿÿÿ
+Q	java:S1101"<This class has 9 parents which is greater than 5 authorized.(§¶Á˜
+b	java:S1011"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(§¶Á˜
+F
+java:S1604Ò"(Make this anonymous inner class a lambda(Áè¾8ˆ¶¨µñ.
+?
+java:S16594"$Declare "number" on a separate line.(‡§§Ïÿÿÿÿÿ
+h	java:S1166"SRename this field "back_img" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÅ´
+u
+java:S3776û"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(»‘»üÿÿÿÿ8ˆ¶¨µñ.
+G
+java:S1874Ë"0Remove this use of "getColor"; it is deprecated.(—åù
+R
+java:S1066¿"/Merge this if statement with the enclosing one.(éôİèıÿÿÿÿ8ˆ¶¨µñ.
+O
+java:S1481€"1Remove this unused "tag_json_obj" local variable.(Ä´‚º8ˆ¶¨µñ.
+@
+java:S16594"%Declare "number1" on a separate line.(‡§§Ïÿÿÿÿÿ
+=
+java:S16594""Declare "type" on a separate line.(‡§§Ïÿÿÿÿÿ
+n	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä´‚º8ˆ¶¨µñ.
+K
+java:S1604Û"(Make this anonymous inner class a lambda(Êœüûÿÿÿÿ8ˆ¶¨µñ.

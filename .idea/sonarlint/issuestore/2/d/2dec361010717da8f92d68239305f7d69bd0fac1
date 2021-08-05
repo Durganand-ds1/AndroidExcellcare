@@ -1,0 +1,73 @@
+
+U
+java:S1155ª">Use isEmpty() to check whether the collection is empty or not.(Ι†¦Θ
+u
+java:S2293Χ"YReplace the type specification in this constructor call with the diamond operator ("<>").(τ›Σνόÿÿÿÿ
+g	java:S117Φ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÿ—
+Q	java:S1104"<This class has 9 parents which is greater than 5 authorized.(ΑΐΟ
+D
+java:S1604α"(Make this anonymous inner class a lambda(Υξ³Ξωÿÿÿÿ
+k
+java:S1192Ϋ"MDefine a constant instead of duplicating this literal "confirmed_on" 4 times.(›Υΰύ8†κ να.
+u
+java:S3776§"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(δΛΝΡωÿÿÿÿ8ρ›να.
+e
+java:S1192‘"ODefine a constant instead of duplicating this literal "paymentExample" 4 times.(§χθ
+
+@
+java:S1659<"%Declare "gettime" on a separate line.(—Ιώÿÿÿÿ
+C
+java:S1659<"(Declare "getuser_id" on a separate line.(—Ιώÿÿÿÿ
+_
+java:S1874Ρ"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(Ϋ΅Ηψÿÿÿÿ8…υ να.
+B
+java:S1659<"'Declare "addressid" on a separate line.(—Ιώÿÿÿÿ
+q
+java:S3923Y"[Remove this conditional structure or edit its code blocks so that they're not all the same.(»βρΒ
+w	java:S116:"]Rename this field "Used_Wallet_amount" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ή¤ΥΙϊÿÿÿÿ
+p
+java:S1192ά"MDefine a constant instead of duplicating this literal "payment_mode" 4 times.(Χβψÿÿÿÿ8†κ να.
+U
+java:S2589Η"7Remove this expression which always evaluates to "true"(ΘΨ²8ρ›να.
+K	java:S108Ν")Either remove or fill this block of code.(χΏ­Ήÿÿÿÿÿ8ρ›να.
+_
+java:S1874Ρ"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(Ϋ΅Ηψÿÿÿÿ8…υ να.
+K
+java:S1604"(Make this anonymous inner class a lambda(Υξ³Ξωÿÿÿÿ8…υ να.
+W
+java:S1854Φ"@Remove this useless assignment to local variable "tag_json_obj".(²ÿ—
+[
+java:S1117Γ"8Rename "name" which hides the field declared at line 60.(ε©ϋÿÿÿÿ8ρ›να.
+>
+java:S1659<"#Declare "phone" on a separate line.(—Ιώÿÿÿÿ
+o	java:S116<"URename this field "getuser_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Ιώÿÿÿÿ
+n	java:S117’"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÿ—8†κ να.
+|
+java:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(τ›Σνόÿÿÿÿ8†κ να.
+V
+java:S1874Ρ"3Remove this use of "isConnected"; it is deprecated.(Ϋ΅Ηψÿÿÿÿ8…υ να.
+=
+java:S1659<""Declare "name" on a separate line.(—Ιώÿÿÿÿ
+r	java:S1169"]Rename this field "session_management" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΨÒιί
+D
+java:S1604ƒ"(Make this anonymous inner class a lambda(΄Έ©”όÿÿÿÿ
+L
+java:S1481Γ")Remove this unused "name" local variable.(ε©ϋÿÿÿÿ8ρ›να.
+>
+java:S1659<"#Declare "email" on a separate line.(—Ιώÿÿÿÿ
+K
+java:S1604Ύ"(Make this anonymous inner class a lambda(΄Έ©”όÿÿÿÿ8…υ να.
+[
+java:S1854Γ"8Remove this useless assignment to local variable "name".(ε©ϋÿÿÿÿ8ρ›να.
+M
+java:S1481Δ"*Remove this unused "price" local variable.( ­—γϋÿÿÿÿ8ρ›να.
+\
+java:S1854Δ"9Remove this useless assignment to local variable "price".( ­—γϋÿÿÿÿ8ρ›να.
+H
+java:S1481Φ"1Remove this unused "tag_json_obj" local variable.(²ÿ—
+^
+java:S1854’"@Remove this useless assignment to local variable "tag_json_obj".(²ÿ—8†κ να.
+O
+java:S1481’"1Remove this unused "tag_json_obj" local variable.(²ÿ—8†κ να.
+h
+java:S1192Ϊ"JDefine a constant instead of duplicating this literal "time_slot" 4 times.(Ψώ³8†κ να.

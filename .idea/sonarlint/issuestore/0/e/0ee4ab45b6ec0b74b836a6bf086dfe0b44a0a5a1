@@ -1,0 +1,83 @@
+
+D
+java:S1604ç"(Make this anonymous inner class a lambda(äóÇìûÿÿÿÿ
+	java:S116["jRename this field "PLACE_AUTOCOMPLETE_REQUEST_CODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼˜¶¾
+R	java:S125ò"<This block of commented-out lines of code should be removed.(î’ƒ 
+˜
+java:S1186â"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±¾ê
+?
+java:S1604Ì"(Make this anonymous inner class a lambda(Áè¾
+w
+java:S1450H"\Remove the "mRecyclerView" field and declare it as a local variable in the relevant methods.(Òéıÿÿÿÿ
+e
+java:S1192«"HDefine a constant instead of duplicating this literal "23.6363" 3 times.(„Ì u8Õ‚Àòá.
+m	java:S116G"SRename this field "back_img" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä”Àöşÿÿÿÿ
+i	java:S116Z"TRename this field "city_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ÜÏ…
+R	java:S125¼"<This block of commented-out lines of code should be removed.(±Æã‚
+>
+java:S1185ğ"(Remove this method to simply inherit it.(¹§ 
+˜
+java:S1186Õ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±
+Z
+java:S3252ı">Use static access with "android.app.Activity" for "RESULT_OK".(Õáıÿÿÿÿ
+
+java:S1186§"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£µ¢›ÿÿÿÿÿ
+˜
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡é††
+Z
+java:S1155•">Use isEmpty() to check whether the collection is empty or not.(¦Áøÿÿÿÿ
+R
+java:S1874È"6Remove this use of "getErrorDialog"; it is deprecated.(ÂŞìÏıÿÿÿÿ
+d
+java:S5361ø"HReplace this call to "replaceAll()" by a call to the "replace()" method.(îŞÃÄûÿÿÿÿ
+V	java:S1107"<This class has 9 parents which is greater than 5 authorized.(ÿ¿“Úùÿÿÿÿ
+V	java:S125z"<This block of commented-out lines of code should be removed.(¶ß‘şÿÿÿÿ
+a
+java:S1874Ä"ERemove this use of "isGooglePlayServicesAvailable"; it is deprecated.(û—çæşÿÿÿÿ
+D
+java:S1604û"(Make this anonymous inner class a lambda(é¸ûŒûÿÿÿÿ
+k
+java:S1192¬"HDefine a constant instead of duplicating this literal "85.5124" 3 times.(ô¹¹»ÿÿÿÿÿ8È¿òá.
+Z
+java:S1155ã">Use isEmpty() to check whether the collection is empty or not.(¦Áøÿÿÿÿ
+Q	java:S125B"<This block of commented-out lines of code should be removed.(™ÄÉŞ
+^
+java:S1192†"GDefine a constant instead of duplicating this literal "getlng" 4 times.(íÜãı
+A
+java:S1659S"&Declare "lngNorth" on a separate line.(ìı«ÿÿÿÿÿÿ
+a
+java:S2184="FCast one of the operands of this multiplication operation to a "long".(ª™ªºÿÿÿÿÿ
+^
+java:S1192„"GDefine a constant instead of duplicating this literal "getlat" 4 times.(çø’ˆ
+˜
+java:S1186‰"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨‰ïÃ
+D
+java:S1604À"(Make this anonymous inner class a lambda(î”·—ûÿÿÿÿ
+G
+java:S1172ğ"+Remove this unused method parameter "text".(¾Ô•İúÿÿÿÿ
+7
+java:S1659P"!Declare "lng" on a separate line.(ßé¾Ÿ
+W	java:S125­"<This block of commented-out lines of code should be removed.(×«÷öÿÿÿÿÿ
+R
+java:S2696”"6Make the enclosing method "static" or remove this set.(Œ‡¡òøÿÿÿÿ
+Q	java:S125L"<This block of commented-out lines of code should be removed.(®ó›í
+Q
+java:S1141Œ"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+I
+java:S1068M"3Remove this unused "BOUNDS_PAKISTAN" private field.(¤Å”
+?
+java:S1604§"(Make this anonymous inner class a lambda(òÌ¹‚
+p
+java:S3008M"ZRename this field "BOUNDS_PAKISTAN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Å”
+A
+java:S1659S"&Declare "latSouth" on a separate line.(ìı«ÿÿÿÿÿÿ
+D
+java:S1604¥"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+l	java:S116U"WRename this field "close_places" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†½¿­
+D	java:S108")Either remove or fill this block of code.(ñ“Š±üÿÿÿÿ
+a
+java:S2184>"FCast one of the operands of this multiplication operation to a "long".(ÇŞÂùÿÿÿÿ
+A
+java:S1659S"&Declare "lngSouth" on a separate line.(ìı«ÿÿÿÿÿÿ
+?
+java:S1604Ÿ"(Make this anonymous inner class a lambda(Ëù¡„

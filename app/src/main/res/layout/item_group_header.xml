@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/headerlayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFFFFF"
+
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+   >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingRight="17dp"
+        android:elevation="1dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="80dp"
+        android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="39dp"
+        android:layout_height="39dp"
+         />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="268dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_weight="1"
+        android:fontFamily="@font/roboto_regular"
+        android:layout_gravity="center"
+        android:textSize="13.3sp"
+        android:text="Vegetable &amp; Fruit "
+        android:textColor="#394556" />
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#e2e2e2"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="70dp"/>
+
+
+
+
+    <!--<ImageView-->
+        <!--android:layout_width="18dp"-->
+        <!--android:layout_height="18dp"-->
+        <!--android:id="@+id/arrow"-->
+        <!--android:layout_gravity="right|center_vertical"-->
+        <!--android:src="@drawable/ic_down_arrow5" />-->
+
+</LinearLayout>

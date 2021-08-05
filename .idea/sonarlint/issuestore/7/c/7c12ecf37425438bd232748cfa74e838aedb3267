@@ -1,0 +1,108 @@
+
+?
+java:S1604‹"(Make this anonymous inner class a lambda(Áè¾
+K
+java:S1874"/Remove this use of "Builder"; it is deprecated.(£şÙ‚øÿÿÿÿ
+n
+java:S3252â"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(¥êêí
+m	java:S116R"SRename this field "back_img" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä”Àöşÿÿÿÿ
+]
+java:S1874F"BRemove this use of "OnConnectionFailedListener"; it is deprecated.(ÒãêÃşÿÿÿÿ
+R
+java:S1874Ö"6Remove this use of "getErrorDialog"; it is deprecated.(ÂŞìÏıÿÿÿÿ
+d
+java:S5361·"HReplace this call to "replaceAll()" by a call to the "replace()" method.(îŞÃÄûÿÿÿÿ
+?
+java:S1604ª"(Make this anonymous inner class a lambda(Ëù¡„
+D
+java:S1604º"(Make this anonymous inner class a lambda(é¸ûŒûÿÿÿÿ
+a
+java:S2184J"FCast one of the operands of this multiplication operation to a "long".(ÇŞÂùÿÿÿÿ
+˜
+java:S1186«"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡é††
+A
+java:S1659^"&Declare "latSouth" on a separate line.(ìı«ÿÿÿÿÿÿ
+
+java:S1186æ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£µ¢›ÿÿÿÿÿ
+i	java:S116e"TRename this field "city_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ÜÏ…
+a
+java:S1874Ò"ERemove this use of "isGooglePlayServicesAvailable"; it is deprecated.(û—çæşÿÿÿÿ
+n
+java:S3252â"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(¥êêí
+D
+java:S1604ä"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+	java:S116f"jRename this field "PLACE_AUTOCOMPLETE_REQUEST_CODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼˜¶¾
+b
+java:S1192º"FDefine a constant instead of duplicating this literal "value" 3 times.(‘—ëÿşÿÿÿÿ
+R
+java:S2696Ó"6Make the enclosing method "static" or remove this set.(Œ‡¡òøÿÿÿÿ
+?
+java:S1604²"(Make this anonymous inner class a lambda(òÌ¹‚
+V
+java:S1874E";Remove this use of "ConnectionCallbacks"; it is deprecated.(ÛâúÌşÿÿÿÿ
+R
+java:S1874F"7Remove this use of "GoogleApiClient"; it is deprecated.(ÒãêÃşÿÿÿÿ
+˜
+java:S1186®"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±¾ê
+b
+java:S2259¦"FA "NullPointerException" could be thrown; "mAdapter" is nullable here.(Õ¿Èÿÿÿÿÿ
+N
+java:S1135ã"2Complete the task associated to this TODO comment.(áÃæùÿÿÿÿ
+Z
+java:S1155 ">Use isEmpty() to check whether the collection is empty or not.(¦Áøÿÿÿÿ
+Z
+java:S1155•">Use isEmpty() to check whether the collection is empty or not.(¦Áøÿÿÿÿ
+D	java:S108Œ")Either remove or fill this block of code.(ñ“Š±üÿÿÿÿ
+Q
+java:S1141é"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+A
+java:S1659^"&Declare "lngSouth" on a separate line.(ìı«ÿÿÿÿÿÿ
+^
+java:S1192"GDefine a constant instead of duplicating this literal "getlat" 4 times.(çø’ˆ
+Z
+java:S1155î">Use isEmpty() to check whether the collection is empty or not.(¦Áøÿÿÿÿ
+7
+java:S1659["!Declare "lng" on a separate line.(ßé¾Ÿ
+˜
+java:S1186”"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±
+S
+java:S1874"7Remove this use of "GoogleApiClient"; it is deprecated.(£şÙ‚øÿÿÿÿ
+I
+java:S1135"2Complete the task associated to this TODO comment.(Æûß
+
+java:S1186ò"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(³ÆÌ¶øÿÿÿÿ
+R
+java:S1874E"7Remove this use of "GoogleApiClient"; it is deprecated.(ÛâúÌşÿÿÿÿ
+N
+java:S1481ì"2Remove this unused "pendingResult" local variable.(‹«š•øÿÿÿÿ
+Q	java:S110C"<This class has 9 parents which is greater than 5 authorized.(—É¦
+˜
+java:S1186¦"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨‰ïÃ
+T
+java:S1874¨"8Remove this use of "FusedLocationApi"; it is deprecated.(œìÓüÿÿÿÿÿ
+p
+java:S3008X"ZRename this field "BOUNDS_PAKISTAN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Å”
+D
+java:S1604Ë"(Make this anonymous inner class a lambda(¢Çİùùÿÿÿÿ
+A
+java:S1659^"&Declare "lngNorth" on a separate line.(ìı«ÿÿÿÿÿÿ
+D
+java:S1604ş"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+a
+java:S2184I"FCast one of the operands of this multiplication operation to a "long".(ª™ªºÿÿÿÿÿ
+]
+java:S1854ì"ARemove this useless assignment to local variable "pendingResult".(‹«š•øÿÿÿÿ
+^
+java:S1192‘"GDefine a constant instead of duplicating this literal "getlng" 4 times.(íÜãı
+T
+java:S1874ì"8Remove this use of "FusedLocationApi"; it is deprecated.(‹«š•øÿÿÿÿ
+Z
+java:S3252š">Use static access with "android.app.Activity" for "RESULT_OK".(á—Ş˜ÿÿÿÿÿ
+D	java:S108")Either remove or fill this block of code.(ñ“Š±üÿÿÿÿ
+l	java:S116`"WRename this field "close_places" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†½¿­
+Q
+java:S1141Ë"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+D
+java:S1604ÿ"(Make this anonymous inner class a lambda(î”·—ûÿÿÿÿ
+R
+java:S1874N"7Remove this use of "GoogleApiClient"; it is deprecated.(Ò¢í¤ûÿÿÿÿ

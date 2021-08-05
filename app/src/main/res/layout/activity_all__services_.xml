@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.tecmanic.goservices.SubCategoryActivity">
+
+    <include layout="@layout/toolbar_all_services"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/grey"/>
+
+    <!--Allservices Tablayout-->
+
+    <com.google.android.material.tabs.TabLayout
+        android:visibility="gone"
+        android:id="@+id/tab_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:background="#212224"
+        app:tabGravity="center"
+        app:tabIndicatorColor="@color/white"
+        app:tabIndicatorHeight="3dp"
+        app:tabMode="fixed"
+        android:clipToPadding="false"
+        android:paddingLeft="30dp"
+        app:tabSelectedTextColor="@color/white"
+        app:tabTextAppearance="@style/MyMenuTextAppearance1"
+        app:tabTextColor="@color/tab_txt_color" />
+
+<androidx.recyclerview.widget.RecyclerView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/recyclerCate"
+    android:layout_marginTop="5dp"></androidx.recyclerview.widget.RecyclerView>
+
+    <!--Viewpager used-->
+    <LinearLayout
+        android:visibility="gone"
+        android:id="@+id/linear"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#000000"
+        android:orientation="vertical"/>
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_marginTop="5dp"
+        android:id="@+id/rv_subcategory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="visible"/>
+
+    <LinearLayout
+        android:id="@+id/noData"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical">
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="120dp"
+        android:src="@drawable/images"
+        android:layout_gravity="center"></ImageView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="This service is currently not available.."
+            android:textColor="@color/walkthrough_txt"
+            android:textSize="14sp"
+            android:layout_margin="10dp"></TextView>
+    </LinearLayout>
+    <androidx.viewpager.widget.ViewPager
+        android:visibility="gone"
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent">
+
+    </androidx.viewpager.widget.ViewPager>
+
+</LinearLayout>

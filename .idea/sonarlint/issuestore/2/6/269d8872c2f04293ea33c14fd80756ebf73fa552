@@ -1,0 +1,132 @@
+
+K
+java:S1659N")Declare "paymentmode" on a separate line.(×ãò™ùÿÿÿÿ8²ÕÆìá.
+k	java:S116K"WRename this field "tv_bookingid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³œ¢
+n	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÿ—8Ó·úìá.
+O
+java:S1481Û"1Remove this unused "tag_json_obj" local variable.(²ÿ—8Ó·úìá.
+8
+java:S1659<""Declare "date" on a separate line.(åı¥Ø
+`
+java:S1117Õ"=Rename "bookingid" which hides the field declared at line 78.(îÆÒäıÿÿÿÿ8Ó·úìá.
+X
+java:S1141Ã"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ó·úìá.
+V	java:S1105"<This class has 9 parents which is greater than 5 authorized.(Ãõáˆùÿÿÿÿ
+K
+java:S1604¸"(Make this anonymous inner class a lambda(Õî³Îùÿÿÿÿ8Ó·úìá.
+D
+java:S1659;")Declare "tv_subtotal" on a separate line.(’ÔŞàøÿÿÿÿ
+=
+java:S1659>"'Declare "addressid" on a separate line.(œ¢Å
+G
+java:S1659N"%Declare "bokdate" on a separate line.(×ãò™ùÿÿÿÿ8²ÕÆìá.
+o	java:S116A"URename this field "getuser_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıéÓùÿÿÿÿ
+l	java:S116;"RRename this field "tv_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÔŞàøÿÿÿÿ
+u
+java:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(å¾¾±ÿÿÿÿÿ8Ó·úìá.
+`
+java:S1117÷"=Rename "bookingid" which hides the field declared at line 78.(îÆÒäıÿÿÿÿ8Ó·úìá.
+u
+java:S3776©"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(äËÍÑùÿÿÿÿ8Ó·úìá.
+O
+java:S1481«"1Remove this unused "tag_json_obj" local variable.(²ÿ—8Ó·úìá.
+?
+java:S16597"$Declare "number" on a separate line.(È—æúÿÿÿÿ
+^
+java:S1854Û"@Remove this useless assignment to local variable "tag_json_obj".(²ÿ—8Ó·úìá.
+K
+java:S1604›"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8Ó·úìá.
+_
+java:S1117ó"<Rename "timeslot" which hides the field declared at line 78.(ØåÛúÿÿÿÿ8ê Éìá.
+p
+java:S1192¡"MDefine a constant instead of duplicating this literal "Booking ID #" 3 times.(½§ Éúÿÿÿÿ8ê Éìá.
+M
+java:S1481È"*Remove this unused "price" local variable.( ­—ãûÿÿÿÿ8Ó·úìá.
+V
+java:S1874"3Remove this use of "isConnected"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ8Ó·úìá.
+p
+java:S1192á"MDefine a constant instead of duplicating this literal "payment_mode" 4 times.(‡’‚ıÿÿÿÿ8Ó·úìá.
+L
+java:S1481Ç")Remove this unused "name" local variable.(å©Ÿœûÿÿÿÿ8ê Éìá.
+:
+java:S16598"$Declare "search" on a separate line.(ÓÅ´
+h	java:S1168"SRename this field "back_img" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÅ´
+Y
+java:S1117ô";Rename "bokdate" which hides the field declared at line 78.(û‰ù¸8ê Éìá.
+]
+java:S1117ö"?Rename "paymentmode" which hides the field declared at line 78.(ÕÀ³›8ê Éìá.
+m
+java:S1192ß"JDefine a constant instead of duplicating this literal "time_slot" 4 times.(¾¸½øûÿÿÿÿ8ê Éìá.
+F	java:S108ñ")Either remove or fill this block of code.(á¢–¬8Ó·úìá.
+r	java:S116D"]Rename this field "session_management" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÒéß
+_
+java:S1117Ñ"<Rename "timeslot" which hides the field declared at line 78.(ØåÛúÿÿÿÿ8ê Éìá.
+n	java:S117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øß¼÷8Ó·úìá.
+l	java:S1167"RRename this field "tv_mode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È—æúÿÿÿÿ
+r	java:S116H"]Rename this field "list_order_adapter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãšª…
+_
+java:S1874"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ8Ó·úìá.
+@
+java:S16597"%Declare "number1" on a separate line.(È—æúÿÿÿÿ
+_
+java:S1874"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ8Ó·úìá.
+m	java:S116L"XRename this field "place_service" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÌñú
+Y
+java:S1117Ò";Rename "bokdate" which hides the field declared at line 78.(û‰ù¸8ê Éìá.
+n	java:S117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÿ—8Ó·úìá.
+p	java:S116;"VRename this field "tv_subtotal" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÔŞàøÿÿÿÿ
+\
+java:S1854È"9Remove this useless assignment to local variable "price".( ­—ãûÿÿÿÿ8Ó·úìá.
+F	java:S108£")Either remove or fill this block of code.(á¢–¬8Ó·úìá.
+K
+java:S1604ç"(Make this anonymous inner class a lambda(Õî³Îùÿÿÿÿ8Ó·úìá.
+a
+java:S1117õ">Rename "uniquecode" which hides the field declared at line 78.(œ¶èçÿÿÿÿÿ8ê Éìá.
+k	java:S1167"QRename this field "tv_otp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È—æúÿÿÿÿ
+\
+java:S1155­">Use isEmpty() to check whether the collection is empty or not.(É†¦È8Ó·úìá.
+?
+java:S16597"$Declare "tv_otp" on a separate line.(È—æúÿÿÿÿ
+F	java:S108“")Either remove or fill this block of code.(á¢–¬8Ó·úìá.
+@
+java:S1659;"%Declare "tv_paid" on a separate line.(’ÔŞàøÿÿÿÿ
+J
+java:S1659N"(Declare "uniquecode" on a separate line.(×ãò™ùÿÿÿÿ8²ÕÆìá.
+F
+java:S1604•"(Make this anonymous inner class a lambda(Áè¾8ê Éìá.
+l	java:S116;"RRename this field "tv_paid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÔŞàøÿÿÿÿ
+|
+java:S2293Ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ8Ó·úìá.
+p
+java:S1192à"MDefine a constant instead of duplicating this literal "confirmed_on" 4 times.(‚ƒ«şÿÿÿÿ8ê Éìá.
+^
+java:S1854«"@Remove this useless assignment to local variable "tag_json_obj".(²ÿ—8Ó·úìá.
+n	java:S117Ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÚ·³8ê Éìá.
+K	java:S108Ñ")Either remove or fill this block of code.(÷¿­¹ÿÿÿÿÿ8Ó·úìá.
+|
+java:S2293¬"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ8Ó·úìá.
+Y
+java:S1854k"7Remove this useless assignment to local variable "map".(›¶¶Şıÿÿÿÿ8ê Éìá.
+a
+java:S1117Ó">Rename "uniquecode" which hides the field declared at line 78.(œ¶èçÿÿÿÿÿ8ê Éìá.
+I
+java:S1659N"'Declare "bookingid" on a separate line.(×ãò™ùÿÿÿÿ8²ÕÆìá.
+n	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øß¼÷8Ó·úìá.
+i
+java:S1192ã"KDefine a constant instead of duplicating this literal "demo_array" 3 times.(ÇĞªÀ8Ó·úìá.
+@
+java:S16597"%Declare "tv_mode" on a separate line.(È—æúÿÿÿÿ
+]
+java:S1117Ô"?Rename "paymentmode" which hides the field declared at line 78.(ÕÀ³›8ê Éìá.
+T
+java:S1144©"1Remove this unused private "attemptOrder" method.(äËÍÑùÿÿÿÿ8Ó·úìá.
+U
+java:S2589Ë"7Remove this expression which always evaluates to "true"(ˆÈØ²8Ó·úìá.
+[
+java:S1854Ç"8Remove this useless assignment to local variable "name".(å©Ÿœûÿÿÿÿ8ê Éìá.
+F
+java:S1604ˆ"(Make this anonymous inner class a lambda(çûäû8ê Éìá.
+J
+java:S1481k"(Remove this unused "map" local variable.(›¶¶Şıÿÿÿÿ8ê Éìá.
+K
+java:S1604ù"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ8Ó·úìá.

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.tecmanic.goservices.SelectAddressActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include layout="@layout/toolbar_appliance_repair"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Select Address"
+            android:paddingLeft="16.3dp"
+            android:paddingBottom="26.7dp"
+            android:paddingTop="26.7dp"
+            android:textSize="20sp"
+            android:fontFamily="@font/roboto_medium"
+            android:textColor="@color/walkthrough_txt"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/view_line"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12.7dp"
+            android:layout_marginBottom="12.7dp"
+            android:layout_marginLeft="11.7dp"
+            android:layout_marginRight="11.7dp"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:buttonTint="@color/blue"
+                android:checked="true"/>
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_marginRight="50dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="11.7dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/walkthrough_txt"
+                    android:textSize="18.3sp"
+                    android:layout_marginTop="5dp"
+                    android:fontFamily="@font/roboto_medium"
+                    android:text="Home"/>
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="John Doe"
+                    android:layout_marginTop="5dp"
+                    android:textSize="13.3sp"
+                    android:textColor="@color/walkthrough_txt"
+                    android:fontFamily="@font/roboto_regular"/>
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="S 02 indialbulls mega mall, nr. dinesh
+mill, jetalpur road,
+Delhi"
+                    android:textSize="13.3sp"
+                    android:textColor="#8f909e"
+                    android:fontFamily="@font/roboto_regular"/>
+
+
+            </LinearLayout>
+
+
+            <ImageView
+                android:layout_width="15dp"
+                android:layout_height="10dp"
+                android:src="@drawable/ic_ellipsis"/>
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/view_line"/>
+
+
+        <TextView
+            android:id="@+id/AddAddress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/blue"
+            android:textSize="15sp"
+            android:layout_margin="16.7dp"
+            android:text="Add New Address"
+            android:fontFamily="@font/roboto_light"
+            android:background="@drawable/dotted_rect"
+            android:padding="13dp"
+            android:gravity="center"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_above="@+id/bottom_linear"
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@drawable/shadow"/>
+
+    <LinearLayout
+        android:id="@+id/bottom_linear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/white">
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/blue_gradient_rect"
+            android:text="Continue with this Address"
+            android:textSize="18.3sp"
+            android:layout_margin="11.7dp"
+            android:textColor="@color/white"
+            android:fontFamily="@font/roboto_medium"
+            android:textAllCaps="false"/>
+    </LinearLayout>
+
+</RelativeLayout>

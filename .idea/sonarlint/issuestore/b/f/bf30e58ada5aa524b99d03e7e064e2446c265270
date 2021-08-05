@@ -1,0 +1,103 @@
+
+@
+java:S1659*"%Declare "number1" on a separate line.(ØüíÀúÿÿÿÿ
+r	java:S1162"]Rename this field "session_management" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÒéß
+A
+java:S16596"$Declare "userid" on a separate line.(€²—Ò8“õ«Åô.
+A
+java:S1659/"&Declare "et_state" on a separate line.(çÂÅ×şÿÿÿÿ
+w
+java:S3923õ"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ÓËòúÿÿÿÿ
+D
+java:S1604§"(Make this anonymous inner class a lambda(ê¾§Ğùÿÿÿÿ
+?
+java:S1659/"$Declare "et_pin" on a separate line.(çÂÅ×şÿÿÿÿ
+W
+java:S1144Ó";Remove this unused private "makeeditAddressRequest" method.(ï€Àşÿÿÿÿ
+l	java:S1160"WRename this field "continue_sub" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÂ¬
+g	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú§ì™
+>
+java:S1604b"(Make this anonymous inner class a lambda(©îí°
+:
+java:S1659+"$Declare "search" on a separate line.(ÓÅ´
+m	java:S116/"SRename this field "et_steet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÂÅ×şÿÿÿÿ
+W
+java:S1854™"@Remove this useless assignment to local variable "tag_json_obj".(ú§ì™
+g	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü°¼ß
+X	java:S107Ó"=Method has 10 parameters, which is greater than 7 authorized.(ï€Àşÿÿÿÿ
+L
+java:S18747"6Remove this use of "ProgressDialog"; it is deprecated.(ğİıº
+i
+java:S3008-"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÖ’¨ûÿÿÿÿ
+8
+java:S16596""Declare "area" on a separate line.(€²—Ò
+l	java:S116/"RRename this field "et_area" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÂÅ×şÿÿÿÿ
+A
+java:S1659/"&Declare "et_steet" on a separate line.(çÂÅ×şÿÿÿÿ
+l	java:S117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï€Àşÿÿÿÿ
+@
+java:S1659/"%Declare "et_area" on a separate line.(çÂÅ×şÿÿÿÿ
+8
+java:S16596""Declare "name" on a separate line.(€²—Ò
+g	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú§ì™
+8
+java:S16596""Declare "city" on a separate line.(€²—Ò
+l	java:S116/"RRename this field "et_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÂÅ×şÿÿÿÿ
+H
+java:S1874I"2Remove this use of "setMessage"; it is deprecated.(ç‡ŸÇ
+D
+java:S1604Œ"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+:
+java:S16596"$Declare "street" on a separate line.(€²—Ò
+l	java:S116/"RRename this field "et_city" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÂÅ×şÿÿÿÿ
+@
+java:S1659/"%Declare "et_city" on a separate line.(çÂÅ×şÿÿÿÿ
+9
+java:S16596"#Declare "phone" on a separate line.(€²—Ò
+m	java:S116/"SRename this field "et_phone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÂÅ×şÿÿÿÿ
+u
+java:S2293Ù"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ
+7
+java:S16596"!Declare "pin" on a separate line.(€²—Ò
+Q	java:S110("<This class has 9 parents which is greater than 5 authorized.(Û¦¥‘
+k	java:S116/"QRename this field "et_pin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÂÅ×şÿÿÿÿ
+l	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®à¸Šúÿÿÿÿ
+F
+java:S1874\"0Remove this use of "getColor"; it is deprecated.(—åù
+9
+java:S16596"#Declare "house" on a separate line.(€²—Ò
+9
+java:S16596"#Declare "state" on a separate line.(€²—Ò
+m	java:S116/"SRename this field "et_house" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÂÅ×şÿÿÿÿ
+H
+java:S1481™"1Remove this unused "tag_json_obj" local variable.(ú§ì™
+H
+java:S1481×"1Remove this unused "tag_json_obj" local variable.(ú§ì™
+A
+java:S1659/"&Declare "et_house" on a separate line.(çÂÅ×şÿÿÿÿ
+A
+java:S1659/"&Declare "et_phone" on a separate line.(çÂÅ×şÿÿÿÿ
+m	java:S116/"SRename this field "et_state" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÂÅ×şÿÿÿÿ
+W
+java:S1854×"@Remove this useless assignment to local variable "tag_json_obj".(ú§ì™
+D
+java:S1604Ä"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+Q
+java:S1874H"6Remove this use of "ProgressDialog"; it is deprecated.(¿Ú•ğúÿÿÿÿ
+K
+java:S1874Y"0Remove this use of "getColor"; it is deprecated.(ú®£øÿÿÿÿ
+D
+java:S1604æ"(Make this anonymous inner class a lambda(£Ã¦­ÿÿÿÿÿ
+F
+java:S1874["0Remove this use of "getColor"; it is deprecated.(‰¸ÀÒ
+u
+java:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ
+?
+java:S1604"(Make this anonymous inner class a lambda(Áè¾
+g	java:S117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³‡ ú
+?
+java:S1659*"$Declare "number" on a separate line.(ØüíÀúÿÿÿÿ
+B
+java:S16595"'Declare "addressid" on a separate line.(Í˜ìµşÿÿÿÿ
+R	java:S107•"<Method has 9 parameters, which is greater than 7 authorized.(Ü°¼ß
+h	java:S116+"SRename this field "back_img" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÅ´

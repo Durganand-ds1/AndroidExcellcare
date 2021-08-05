@@ -1,0 +1,111 @@
+
+h	java:S116,"SRename this field "back_img" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÅ´
+=
+java:S1659@"'Declare "addOnname" on a separate line.(‘Õêó
+l	java:S116A"XRename this field "CardViewOffer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØşÆ!
+N
+java:S1874ğ"0Remove this use of "getColor"; it is deprecated.(—åù8‹¸·ùñ.
+8
+java:S1659+""Declare "type" on a separate line.(¨Ôğ
+?
+java:S16597")Declare "linear_add1" on a separate line.(¼Æä
+:
+java:S1659,"$Declare "search" on a separate line.(ÓÅ´
+Q	java:S110("<This class has 9 parents which is greater than 5 authorized.(÷ô›´
+X
+java:S2696^"6Make the enclosing method "static" or remove this set.(Ì²¶úÿÿÿÿ8‹¸·ùñ.
+K
+java:S1604ÿ"(Make this anonymous inner class a lambda(Êœüûÿÿÿÿ8Š¸·ùñ.
+M
+java:S1481Ë"*Remove this unused "price" local variable.( ­—ãûÿÿÿÿ8‹¸·ùñ.
+S
+java:S2696z"6Make the enclosing method "static" or remove this set.(ŸÍğ8ÿ†ô¾ô.
+D
+java:S14444".Make this "public static txtAddon" field final(°“øı
+b	java:S101("MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(÷ô›´
+@
+java:S16597"*Declare "linear_count" on a separate line.(¼Æä
+;
+java:S1659+"%Declare "number1" on a separate line.(¨Ôğ
+m	java:S1167"XRename this field "bottom_linear" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Æä
+g	java:S1161"RRename this field "rv_list" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü¯Ìâ
+Y
+java:S2696°"6Make the enclosing method "static" or remove this set.(ì’ò¡øÿÿÿÿ8ÿ†ô¾ô.
+S
+java:S2696a"6Make the enclosing method "static" or remove this set.(¸†Â 8‹¸·ùñ.
+9
+java:S1659;"#Declare "adult" on a separate line.( Ë€±
+m	java:S1167"XRename this field "linear_count1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Æä
+j
+java:S11044"TMake txtAddon a static final constant or non-public and provide accessors if needed.(°“øı
+o
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(­‹ªœ
+o
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(çã¶ê
+g
+java:S1450-"QRemove the "db" field and declare it as a local variable in the relevant methods.(Ğü¸ë
+u
+java:S1104D"ZMake recyclerAddons a static final constant or non-public and provide accessors if needed.(à§Ë…øÿÿÿÿ
+T
+java:S2696‚"6Make the enclosing method "static" or remove this set.(ÑÀü«8À—ïÊô.
+=
+java:S16596""Declare "add1" on a separate line.(€ôéÍùÿÿÿÿ
+F
+java:S14444"0Make this "public static totalprice" field final(°“øı
+A
+java:S14444"+Make this "public static total" field final(°“øı
+k	java:S1167"VRename this field "linear_add1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Æä
+X
+java:S2696`"6Make the enclosing method "static" or remove this set.(‚İµøÿÿÿÿ8‹¸·ùñ.
+Y
+java:S2696Š"6Make the enclosing method "static" or remove this set.(ü„Òóşÿÿÿÿ8À—ïÊô.
+K
+java:S1604ß"(Make this anonymous inner class a lambda(±ğÈ£şÿÿÿÿ8Š¸·ùñ.
+N
+java:S1874ï"0Remove this use of "getColor"; it is deprecated.(‰¸ÀÒ8‹¸·ùñ.
+l	java:S116*"WRename this field "notice_array" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çã¶ê
+r	java:S116="]Rename this field "session_management" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÒéß
+?
+java:S16596"$Declare "minus1" on a separate line.(€ôéÍùÿÿÿÿ
+g
+java:S11044"QMake total a static final constant or non-public and provide accessors if needed.(°“øı
+Z
+java:S1117Ö"<Rename "adapter1" which hides the field declared at line 63.(…× ‹8‹¸·ùñ.
+\
+java:S1854Ë"9Remove this useless assignment to local variable "price".( ­—ãûÿÿÿÿ8‹¸·ùñ.
+t
+java:S3776J"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¨Œşÿÿÿÿ8ŞÙ‹õñ.
+>
+java:S16594"(Declare "totalprice" on a separate line.(°“øı
+n	java:S1169"TRename this field "tv_coupon" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦‚íÍşÿÿÿÿ
+S
+java:S1874í"0Remove this use of "getColor"; it is deprecated.(ú®£øÿÿÿÿ8‹¸·ùñ.
+F
+java:S1659G")Declare "finalAmount" on a separate line.(‡êÛˆ8üÀäôñ.
+>
+java:S16596"#Declare "minus" on a separate line.(€ôéÍùÿÿÿÿ
+j	java:S1167"URename this field "linear_add" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Æä
+A
+java:S16597"+Declare "linear_count1" on a separate line.(¼Æä
+9
+java:S1659+"#Declare "addon" on a separate line.(¨Ôğ
+O
+java:S1444D"4Make this "public static recyclerAddons" field final(à§Ë…øÿÿÿÿ
+l	java:S1167"WRename this field "linear_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Æä
+k	java:S116)"VRename this field "title_array" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­‹ªœ
+l
+java:S11044"VMake totalprice a static final constant or non-public and provide accessors if needed.(°“øı
+A
+java:S16597"+Declare "bottom_linear" on a separate line.(¼Æä
+U
+java:S2130w"9Use "Integer.parseInt" for this string-to-int conversion.(µòÒ8‹¸·ùñ.
+:
+java:S1659+"$Declare "number" on a separate line.(¨Ôğ
+[
+java:S2130x"9Use "Integer.parseInt" for this string-to-int conversion.(çşíÓşÿÿÿÿ8‹¸·ùñ.
+X
+java:S2696W"6Make the enclosing method "static" or remove this set.(‹Ö€Æøÿÿÿÿ8š„·ùñ.
+<
+java:S16594"&Declare "txtAddon" on a separate line.(°“øı
+F
+java:S1604÷"(Make this anonymous inner class a lambda(Áè¾8Š¸·ùñ.

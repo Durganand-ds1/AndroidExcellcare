@@ -1,0 +1,79 @@
+
+X	java:S107£"=Method has 10 parameters, which is greater than 7 authorized.(éìî«üÿÿÿÿ
+V	java:S110("<This class has 9 parents which is greater than 5 authorized.(©æ‡ëøÿÿÿÿ
+l	java:S117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éìî«üÿÿÿÿ
+l	java:S117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éìî«üÿÿÿÿ
+g	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú§ì™
+>
+java:S1604l"(Make this anonymous inner class a lambda(©îí°
+?
+java:S1604›"(Make this anonymous inner class a lambda(Áè¾
+D
+java:S1604¶"(Make this anonymous inner class a lambda(£Ã¦­ÿÿÿÿÿ
+D
+java:S1604Ó"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+?
+java:S1659*"$Declare "number" on a separate line.(ØüíÀúÿÿÿÿ
+@
+java:S1659*"%Declare "number1" on a separate line.(ØüíÀúÿÿÿÿ
+:
+java:S1659+"$Declare "search" on a separate line.(ÓÅ´
+A
+java:S16591"&Declare "et_phone" on a separate line.(çÂÅ×şÿÿÿÿ
+@
+java:S16591"%Declare "et_area" on a separate line.(çÂÅ×şÿÿÿÿ
+?
+java:S16591"$Declare "et_pin" on a separate line.(çÂÅ×şÿÿÿÿ
+@
+java:S16591"%Declare "et_city" on a separate line.(çÂÅ×şÿÿÿÿ
+A
+java:S16591"&Declare "et_state" on a separate line.(çÂÅ×şÿÿÿÿ
+A
+java:S16591"&Declare "et_house" on a separate line.(çÂÅ×şÿÿÿÿ
+A
+java:S16591"&Declare "et_steet" on a separate line.(çÂÅ×şÿÿÿÿ
+=
+java:S16593""Declare "name" on a separate line.(‘¡àøÿÿÿÿ
+>
+java:S16593"#Declare "phone" on a separate line.(‘¡àøÿÿÿÿ
+=
+java:S16593""Declare "area" on a separate line.(‘¡àøÿÿÿÿ
+<
+java:S16593"!Declare "pin" on a separate line.(‘¡àøÿÿÿÿ
+?
+java:S16593"$Declare "street" on a separate line.(‘¡àøÿÿÿÿ
+>
+java:S16593"#Declare "state" on a separate line.(‘¡àøÿÿÿÿ
+>
+java:S16593"#Declare "house" on a separate line.(‘¡àøÿÿÿÿ
+=
+java:S16593""Declare "city" on a separate line.(‘¡àøÿÿÿÿ
+h	java:S116+"SRename this field "back_img" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÅ´
+l	java:S1161"RRename this field "et_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÂÅ×şÿÿÿÿ
+m	java:S1161"SRename this field "et_phone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÂÅ×şÿÿÿÿ
+l	java:S1161"RRename this field "et_area" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÂÅ×şÿÿÿÿ
+k	java:S1161"QRename this field "et_pin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÂÅ×şÿÿÿÿ
+l	java:S1161"RRename this field "et_city" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÂÅ×şÿÿÿÿ
+m	java:S1161"SRename this field "et_state" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÂÅ×şÿÿÿÿ
+m	java:S1161"SRename this field "et_house" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÂÅ×şÿÿÿÿ
+m	java:S1161"SRename this field "et_steet" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çÂÅ×şÿÿÿÿ
+l	java:S1162"WRename this field "continue_sub" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÂ¬
+r	java:S1165"]Rename this field "session_management" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÒéß
+L
+java:S18744"6Remove this use of "ProgressDialog"; it is deprecated.(ğİıº
+Q
+java:S1874C"6Remove this use of "ProgressDialog"; it is deprecated.(¿Ú•ğúÿÿÿÿ
+H
+java:S1874D"2Remove this use of "setMessage"; it is deprecated.(ç‡ŸÇ
+K
+java:S1874c"0Remove this use of "getColor"; it is deprecated.(ú®£øÿÿÿÿ
+F
+java:S1874e"0Remove this use of "getColor"; it is deprecated.(‰¸ÀÒ
+F
+java:S1874f"0Remove this use of "getColor"; it is deprecated.(—åù
+W
+java:S1854§"@Remove this useless assignment to local variable "tag_json_obj".(ú§ì™
+u
+java:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ
+H
+java:S1481§"1Remove this unused "tag_json_obj" local variable.(ú§ì™

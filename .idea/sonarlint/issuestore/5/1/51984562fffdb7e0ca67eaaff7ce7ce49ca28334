@@ -1,0 +1,56 @@
+
+i
+java:S30087"NRename this field "TAG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÒÓñıÿÿÿÿ
+?
+java:S1659<"$Declare "titlee" on a separate line.(ªùóƒüÿÿÿÿ
+h	java:S1164"SRename this field "back_img" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÅ´
+:
+java:S16594"$Declare "search" on a separate line.(ÓÅ´
+F
+java:S1874Z"0Remove this use of "getColor"; it is deprecated.(—åù
+L
+java:S1874?"6Remove this use of "ProgressDialog"; it is deprecated.(ğİıº
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¥«
+F
+java:S1874Y"0Remove this use of "getColor"; it is deprecated.(‰¸ÀÒ
+C
+java:S1604s"(Make this anonymous inner class a lambda(Êœüûÿÿÿÿ
+=
+java:S16593""Declare "type" on a separate line.(èƒ¡ûÿÿÿÿ
+V	java:S1101"<This class has 9 parents which is greater than 5 authorized.(ËÕ¦ëşÿÿÿÿ
+g	java:S1011"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ËÕ¦ëşÿÿÿÿ
+D
+java:S1604Å"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+D
+java:S1444A".Make this "public static titleNot" field final(èÍ®ê
+>
+java:S1604i"(Make this anonymous inner class a lambda(Áè¾
+M
+java:S1874K"2Remove this use of "setMessage"; it is deprecated.(ÔòÌøÿÿÿÿ
+Q
+java:S1874J"6Remove this use of "ProgressDialog"; it is deprecated.(¿Ú•ğúÿÿÿÿ
+L
+java:S2696I"6Make the enclosing method "static" or remove this set.(ÎûÄ´
+?
+java:S1604–"(Make this anonymous inner class a lambda(øùÓî
+j
+java:S1104A"TMake titleNot a static final constant or non-public and provide accessors if needed.(èÍ®ê
+H
+java:S1481"1Remove this unused "tag_json_obj" local variable.(¿¥«
+S
+java:S2589£"7Remove this expression which always evaluates to "true"(¹éÄÌùÿÿÿÿ
+@
+java:S16593"%Declare "number1" on a separate line.(èƒ¡ûÿÿÿÿ
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ô›Óíüÿÿÿÿ
+p	java:S1168"[Rename this field "add_on_modelList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰´ö‡
+?
+java:S16593"$Declare "number" on a separate line.(èƒ¡ûÿÿÿÿ
+?
+java:S16593"$Declare "title1" on a separate line.(èƒ¡ûÿÿÿÿ
+K
+java:S1874W"0Remove this use of "getColor"; it is deprecated.(ú®£øÿÿÿÿ
+i	java:S100Š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’Ÿ¹‘ÿÿÿÿÿ
+W
+java:S1854"@Remove this useless assignment to local variable "tag_json_obj".(¿¥«
+P	java:S125{"<This block of commented-out lines of code should be removed.(ƒüe

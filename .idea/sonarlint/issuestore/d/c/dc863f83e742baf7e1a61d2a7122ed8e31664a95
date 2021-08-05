@@ -1,0 +1,6 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(›ô§°
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(πÃËŒ
+r	java:S116"]Rename this field "session_management" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ“Èﬂ
+<
+java:S1659"&Declare "quantity" on a separate line.(∫Ÿ§œ

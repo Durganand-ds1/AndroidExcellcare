@@ -1,0 +1,7 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹ÌèÎ
+>
+java:S1604K"(Make this anonymous inner class a lambda(Ö¹™º
+n	java:S116 "TRename this field "OfferList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¢õùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ñˆ…Ë
+V	java:S125F"<This block of commented-out lines of code should be removed.(èëâœşÿÿÿÿ

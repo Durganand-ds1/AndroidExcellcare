@@ -1,0 +1,37 @@
+
+f
+java:S1192q"KDefine a constant instead of duplicating this literal "addon_name" 3 times.(À×±ñÿÿÿÿÿ
+b
+java:S1192r"LDefine a constant instead of duplicating this literal "addon_price" 3 times.(Õ”ı•
+b
+java:S1192ƒ"FDefine a constant instead of duplicating this literal "addon" 3 times.(ĞÙõàÿÿÿÿÿ
+_
+java:S1192j"IDefine a constant instead of duplicating this literal "addon_id" 5 times.(èÿ¯‰
+g	java:S101""MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(şáï øÿÿÿÿ
+f	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Öİ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹ÌèÎ
+@
+java:S5411Š"*Use the primitive boolean expression here.(çÈe
+>
+java:S1604`"(Make this anonymous inner class a lambda(¹ØÊØ
+_
+java:S2583ˆ"CChange this condition so that it does not always evaluate to "true"(©›üîùÿÿÿÿ
+n	java:S116*"TRename this field "OfferList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Î¥¸øÿÿÿÿ
+r	java:S116,"]Rename this field "session_management" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÒéß
+m
+java:S3776R"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(¼ÿ«éùÿÿÿÿ
+L
+java:S2696W"6Make the enclosing method "static" or remove this set.(Şæş¸
+>	java:S108t")Either remove or fill this block of code.(å¥‡
+S
+java:S1117"7Rename "sum" which hides the field declared at line 37.(©ŒºÉûÿÿÿÿ
+?	java:S108·")Either remove or fill this block of code.(å¥‡
+H
+java:S1068-"2Remove this unused "lastCheckedPos" private field.(²¥ºÑ
+J
+java:S1068."/Remove this unused "lastChecked" private field.(¥ª›éûÿÿÿÿ
+V	java:S125|"<This block of commented-out lines of code should be removed.(ì³Ç»ûÿÿÿÿ
+R	java:S125‘"<This block of commented-out lines of code should be removed.(Ê•­ô
+Q	java:S125”"<This block of commented-out lines of code should be removed.(¶Çø*
+W	java:S125—"<This block of commented-out lines of code should be removed.(­Å¾Ùıÿÿÿÿ
+W	java:S125¿"<This block of commented-out lines of code should be removed.(ì³Ç»ûÿÿÿÿ

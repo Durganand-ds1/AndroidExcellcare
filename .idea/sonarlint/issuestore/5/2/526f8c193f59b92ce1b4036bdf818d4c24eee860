@@ -1,0 +1,76 @@
+
+h
+java:S1192Τ"JDefine a constant instead of duplicating this literal "time_slot" 4 times.(Ψώ³8Θ¨―υρ.
+L
+java:S1481¶")Remove this unused "name" local variable.(ε©ϋÿÿÿÿ8Θ¨―υρ.
+K	java:S108Γ")Either remove or fill this block of code.(χΏ­Ήÿÿÿÿÿ8Θ¨―υρ.
+u
+java:S3776—"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(δΛΝΡωÿÿÿÿ8Θ¨―υρ.
+X
+java:S1874ν"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(Ϋ΅Ηψÿÿÿÿ
+X
+java:S1874ν"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(Ϋ΅Ηψÿÿÿÿ
+K
+java:S1604Λ"(Make this anonymous inner class a lambda(΄Έ©”όÿÿÿÿ8Θ¨―υρ.
+M
+java:S1481·"*Remove this unused "price" local variable.( ­—γϋÿÿÿÿ8Θ¨―υρ.
+K
+java:S1604ϋ"(Make this anonymous inner class a lambda(΄Έ©”όÿÿÿÿ8Θ¨―υρ.
+O
+java:S1481Ο"1Remove this unused "tag_json_obj" local variable.(²ÿ—8Θ¨―υρ.
+K
+java:S1604Ϊ"(Make this anonymous inner class a lambda(Υξ³Ξωÿÿÿÿ8Θ¨―υρ.
+K
+java:S1604§"(Make this anonymous inner class a lambda(Υξ³Ξωÿÿÿÿ8Θ¨―υρ.
+E
+java:S16593"#Declare "email" on a separate line.(³ξηωÿÿÿÿ8Θ¨―υρ.
+y	java:S1162"]Rename this field "session_management" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΨÒιί8Θ¨―υρ.
+D
+java:S16595"'Declare "addressid" on a separate line.(‘†8Θ¨―υρ.
+¤
+java:S1186•"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Φ θώÿÿÿÿ8Θ¨―υρ.
+^
+java:S1854"@Remove this useless assignment to local variable "tag_json_obj".(²ÿ—8Θ¨―υρ.
+B
+java:S16595"%Declare "gettime" on a separate line.(‘†8Θ¨―υρ.
+V
+java:S2589Ό"8Remove this expression which always evaluates to "false"(ΐÿΗα8Θ¨―υρ.
+F	java:S108Β")Either remove or fill this block of code.(αΆ–¬8Θ¨―υρ.
+O
+java:S1874ν"3Remove this use of "isConnected"; it is deprecated.(Ϋ΅Ηψÿÿÿÿ
+]	java:S1100"<This class has 9 parents which is greater than 5 authorized.(µπζϋÿÿÿÿ8Θ¨―υρ.
+¤
+java:S1186γ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Φ θώÿÿÿÿ8µ¬υρ.
+p
+java:S1192Φ"MDefine a constant instead of duplicating this literal "payment_mode" 4 times.(Χβψÿÿÿÿ8Θ¨―υρ.
+\
+java:S1854·"9Remove this useless assignment to local variable "price".( ­—γϋÿÿÿÿ8Θ¨―υρ.
+k
+java:S1192Υ"MDefine a constant instead of duplicating this literal "confirmed_on" 4 times.(›Υΰύ8Θ¨―υρ.
+O
+java:S1481"1Remove this unused "tag_json_obj" local variable.(²ÿ—8Θ¨―υρ.
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÿ—8Θ¨―υρ.
+q	java:S1165"URename this field "getuser_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘†8Θ¨―υρ.
+x
+java:S3923G"[Remove this conditional structure or edit its code blocks so that they're not all the same.(»βρΒ8Θ¨―υρ.
+\
+java:S1155›">Use isEmpty() to check whether the collection is empty or not.(Ι†¦Θ8Θ¨―υρ.
+U
+java:S2589Ή"7Remove this expression which always evaluates to "true"(ΘΨ²8Θ¨―υρ.
+[
+java:S1854¶"8Remove this useless assignment to local variable "name".(ε©ϋÿÿÿÿ8Θ¨―υρ.
+^
+java:S1854Ο"@Remove this useless assignment to local variable "tag_json_obj".(²ÿ—8Θ¨―υρ.
+|
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(τ›Σνόÿÿÿÿ8Θ¨―υρ.
+|
+java:S2293Π"YReplace the type specification in this constructor call with the diamond operator ("<>").(τ›Σνόÿÿÿÿ8Θ¨―υρ.
+n	java:S117Ο"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÿ—8Θ¨―υρ.
+E
+java:S16593"#Declare "phone" on a separate line.(³ξηωÿÿÿÿ8Θ¨―υρ.
+B
+java:S16595"%Declare "getdate" on a separate line.(‘†8Θ¨―υρ.
+D
+java:S16595"'Declare "getamount" on a separate line.(‘†8Θ¨―υρ.
+[
+java:S1117¶"8Rename "name" which hides the field declared at line 51.(ε©ϋÿÿÿÿ8Θ¨―υρ.

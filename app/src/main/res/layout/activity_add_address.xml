@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.tecmanic.goservices.SelectAddressActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include layout="@layout/toolbar_all_services"/>
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="none">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add Address"
+            android:paddingLeft="16.3dp"
+            android:paddingBottom="26.7dp"
+            android:paddingTop="26.7dp"
+            android:textSize="20sp"
+            android:fontFamily="@font/roboto_medium"
+            android:textColor="@color/walkthrough_txt"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/view_line"/>
+
+
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16.7dp"
+            android:layout_marginTop="17dp"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/radio1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/roboto_regular"
+                android:theme="@style/MyRadioButton"
+                android:text="Mr."/>
+
+            <RadioButton
+                android:id="@+id/radio2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:fontFamily="@font/roboto_regular"
+                android:theme="@style/MyRadioButton"
+                android:text="Mrs."/>
+
+            <RadioButton
+                android:id="@+id/radio3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:fontFamily="@font/roboto_regular"
+                android:theme="@style/MyRadioButton"
+                android:text="Miss."/>
+        </RadioGroup>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="17.3dp"
+            android:layout_marginLeft="16.7dp"
+            android:layout_marginRight="16.7dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Name"
+                android:textSize="11.7sp"
+                android:textColor="@color/walkthrough_txt"
+                android:fontFamily="@font/roboto_regular"/>
+
+            <EditText
+                android:id="@+id/etName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/edit_address_rect"
+                android:hint="Enter Name"
+                android:textColorHint="#8f909e"
+                android:textColor="@color/walkthrough_txt"
+                android:textSize="15sp"
+                android:padding="12dp"
+                android:layout_marginTop="5dp"
+                android:inputType="text"
+                android:fontFamily="@font/roboto_regular"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Street / Flat"
+                android:textSize="11.7sp"
+                android:layout_marginTop="16.8dp"
+                android:textColor="@color/walkthrough_txt"
+                android:fontFamily="@font/roboto_regular"/>
+
+            <EditText
+                android:id="@+id/etStreet"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/edit_address_rect"
+                android:hint="Enter Street / Flat"
+                android:textColorHint="#8f909e"
+                android:textColor="@color/walkthrough_txt"
+                android:textSize="15sp"
+                android:padding="12dp"
+                android:layout_marginTop="5dp"
+                android:inputType="text"
+                android:fontFamily="@font/roboto_regular"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Locality"
+                android:textSize="11.7sp"
+                android:layout_marginTop="16.8dp"
+                android:textColor="@color/walkthrough_txt"
+                android:fontFamily="@font/roboto_regular"/>
+
+            <EditText
+                android:id="@+id/etArea"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/edit_address_rect"
+                android:hint="Enter Locality"
+                android:textColorHint="#8f909e"
+                android:textColor="@color/walkthrough_txt"
+                android:textSize="15sp"
+                android:padding="12dp"
+                android:layout_marginTop="5dp"
+                android:inputType="text"
+                android:fontFamily="@font/roboto_regular"/>
+        </LinearLayout>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/walkthrough_txt"
+            android:text="Address Type"
+            android:textSize="15sp"
+            android:layout_marginLeft="16.7dp"
+            android:layout_marginTop="16.7dp"
+            android:fontFamily="@font/roboto_regular"/>
+
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="16.7dp"
+            android:layout_marginTop="17dp"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/radio4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/roboto_regular"
+                android:theme="@style/MyRadioButton"
+                android:text="Home"/>
+
+            <RadioButton
+                android:id="@+id/radio5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:fontFamily="@font/roboto_regular"
+                android:theme="@style/MyRadioButton"
+                android:text="Office"/>
+
+            <RadioButton
+                android:id="@+id/radio6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:fontFamily="@font/roboto_regular"
+                android:theme="@style/MyRadioButton"
+                android:text="Other"/>
+        </RadioGroup>
+
+            </LinearLayout>
+        </ScrollView>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_above="@+id/bottom_linear"
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="@drawable/shadow"/>
+
+    <LinearLayout
+        android:id="@+id/bottom_linear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/white">
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/blue_gradient_rect"
+            android:text="Continue"
+            android:textSize="18.3sp"
+            android:layout_margin="11.7dp"
+            android:textColor="@color/white"
+            android:fontFamily="@font/roboto_medium"
+            android:textAllCaps="false"/>
+    </LinearLayout>
+
+</RelativeLayout>
+-->
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/l1_check"
+        android:orientation="vertical">
+
+        <include layout="@layout/toolbar_all_services"/>
+
+<View
+    android:layout_width="match_parent"
+    android:layout_height=".5dp"
+    android:background="@color/grey"></View>
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Add Address"
+                android:paddingLeft="16.3dp"
+                android:paddingBottom="26.7dp"
+                android:paddingTop="26.7dp"
+                android:textSize="20sp"
+                android:fontFamily="@font/roboto_medium"
+                android:textColor="@color/walkthrough_txt"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/view_line"/>
+
+
+
+            <androidx.core.widget.NestedScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="17.3dp"
+                    android:layout_marginLeft="16.7dp"
+                    android:layout_marginRight="16.7dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Name"
+                        android:textSize="11.7sp"
+                        android:textColor="@color/walkthrough_txt"
+                        android:fontFamily="@font/roboto_regular"/>
+
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/edit_address_rect"
+                        android:hint="Enter Name"
+                        android:id="@+id/et_name"
+                        android:textColorHint="#8f909e"
+                        android:textColor="@color/walkthrough_txt"
+                        android:textSize="15sp"
+                        android:padding="12dp"
+                        android:layout_marginTop="5dp"
+                        android:inputType="text"
+                        android:fontFamily="@font/roboto_regular"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Phone"
+                        android:textSize="11.7sp"
+                        android:textColor="@color/walkthrough_txt"
+                        android:fontFamily="@font/roboto_regular"/>
+
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/edit_address_rect"
+                        android:hint="Enter Phone"
+                        android:id="@+id/et_phone"
+                        android:textColorHint="#8f909e"
+                        android:textColor="@color/walkthrough_txt"
+                        android:textSize="15sp"
+                        android:maxLength="10"
+                        android:padding="12dp"
+                        android:layout_marginTop="5dp"
+                        android:inputType="number"
+                        android:fontFamily="@font/roboto_regular"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="House No./Flat"
+                        android:textSize="11.7sp"
+                        android:textColor="@color/walkthrough_txt"
+                        android:fontFamily="@font/roboto_regular"/>
+
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/edit_address_rect"
+                        android:hint="Enter House / Flat"
+                        android:textColorHint="#8f909e"
+                        android:textColor="@color/walkthrough_txt"
+                        android:textSize="15sp"
+                        android:padding="12dp"
+                        android:id="@+id/et_house"
+                        android:layout_marginTop="5dp"
+                        android:inputType="text"
+                        android:fontFamily="@font/roboto_regular"/>
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Street"
+
+                        android:textSize="11.7sp"
+                        android:textColor="@color/walkthrough_txt"
+                        android:fontFamily="@font/roboto_regular"/>
+
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/edit_address_rect"
+                        android:hint="Enter Street"
+                        android:textColorHint="#8f909e"
+                        android:textColor="@color/walkthrough_txt"
+                        android:id="@+id/et_street"
+                        android:textSize="15sp"
+                        android:padding="12dp"
+                        android:layout_marginTop="5dp"
+                        android:inputType="text"
+                        android:fontFamily="@font/roboto_regular"/>
+
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Locality"
+                        android:textSize="11.7sp"
+                        android:textColor="@color/walkthrough_txt"
+                        android:fontFamily="@font/roboto_regular"/>
+
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/edit_address_rect"
+                        android:hint="Enter Locality"
+                        android:textColorHint="#8f909e"
+                        android:textColor="@color/walkthrough_txt"
+                        android:textSize="15sp"
+                        android:id="@+id/et_area"
+                        android:padding="12dp"
+                        android:layout_marginTop="5dp"
+                        android:inputType="text"
+                        android:fontFamily="@font/roboto_regular"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Pin Code"
+                        android:textSize="11.7sp"
+                        android:layout_marginTop="16.8dp"
+                        android:textColor="@color/walkthrough_txt"
+                        android:fontFamily="@font/roboto_regular"/>
+
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/edit_address_rect"
+                        android:hint="Enter Pincode"
+                        android:textColorHint="#8f909e"
+                        android:textColor="@color/walkthrough_txt"
+                        android:textSize="15sp"
+                        android:id="@+id/et_pin"
+                        android:padding="12dp"
+                        android:layout_marginTop="5dp"
+                        android:inputType="number"
+                        android:fontFamily="@font/roboto_regular"/>
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="City"
+                        android:textSize="11.7sp"
+                        android:layout_marginTop="16.8dp"
+                        android:textColor="@color/walkthrough_txt"
+                        android:fontFamily="@font/roboto_regular"/>
+
+                    <EditText
+                        android:focusable="false"
+                        android:clickable="false"
+                        android:editable="false"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/edit_address_rect"
+                        android:hint="Enter City"
+                        android:textColorHint="#8f909e"
+                        android:textColor="@color/walkthrough_txt"
+                        android:textSize="15sp"
+                        android:padding="12dp"
+                        android:id="@+id/et_city"
+                        android:layout_marginTop="5dp"
+                        android:inputType="text"
+                        android:fontFamily="@font/roboto_regular"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="State"
+                        android:textSize="11.7sp"
+                        android:layout_marginTop="16.8dp"
+                        android:textColor="@color/walkthrough_txt"
+                        android:fontFamily="@font/roboto_regular"/>
+
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/edit_address_rect"
+                        android:hint="Enter State"
+                        android:id="@+id/et_state"
+                        android:textColorHint="#8f909e"
+                        android:textColor="@color/walkthrough_txt"
+                        android:textSize="15sp"
+                        android:padding="12dp"
+                        android:layout_marginTop="5dp"
+                        android:inputType="text"
+                        android:fontFamily="@font/roboto_regular"/>
+
+                </LinearLayout>
+
+            </androidx.core.widget.NestedScrollView>
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_above="@+id/bottom_linear"
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:id="@+id/l1_check"
+        android:orientation="vertical"
+        android:background="@drawable/shadow"/>
+
+    <LinearLayout
+        android:id="@+id/bottom_linear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/white">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="10dp"
+            android:layout_margin="11.7dp">
+
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/continue_sub"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/blue_gradient_rect"
+            android:text="Continue"
+            android:textSize="18.3sp"
+            android:textColor="@color/white"
+            android:fontFamily="@font/roboto_medium"
+            android:textAllCaps="false"/>
+        </androidx.cardview.widget.CardView>
+    </LinearLayout>
+
+</RelativeLayout>

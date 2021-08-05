@@ -1,0 +1,36 @@
+
+Q	java:S110!"<This class has 9 parents which is greater than 5 authorized.(ÓÊû³
+>
+java:S16049"(Make this anonymous inner class a lambda(ÁŽè¾
+C
+java:S1604@"(Make this anonymous inner class a lambda(Œ€áÂúÿÿÿÿ
+C
+java:S1604I"(Make this anonymous inner class a lambda(Êœüûÿÿÿÿ
+>
+java:S1604Z"(Make this anonymous inner class a lambda(Óê¦×
+C
+java:S1604u"(Make this anonymous inner class a lambda(´¸©”üÿÿÿÿ
+=
+java:S1659("'Declare "txtResend" on a separate line.(Ý†Ê•
+m	java:S116%"SRename this field "back_img" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä”Àöþÿÿÿÿ
+m	java:S116'"SRename this field "MobileNO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÖÐ¾ÿÿÿÿÿ
+L
+java:S1874&"6Remove this use of "ProgressDialog"; it is deprecated.(ðÝýº
+Q
+java:S18741"6Remove this use of "ProgressDialog"; it is deprecated.(¿Ú•ðúÿÿÿÿ
+M
+java:S18742"2Remove this use of "setMessage"; it is deprecated.(Åª¬Øþÿÿÿÿ
+—
+java:S1186B"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡é††
+S
+java:S1854e"=Remove this useless assignment to local variable "resultObj".(ÖªŸ“
+œ
+java:S1186w"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£µ¢›ÿÿÿÿÿ
+X
+java:S1874Ž"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ
+X
+java:S1874Ž"<Remove this use of "getActiveNetworkInfo"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ
+O
+java:S1874Ž"3Remove this use of "isConnected"; it is deprecated.(ˆÛ¡Çøÿÿÿÿ
+D
+java:S1481e".Remove this unused "resultObj" local variable.(ÖªŸ“
