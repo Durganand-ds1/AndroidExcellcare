@@ -46,6 +46,7 @@ public class OTPsignupActivity extends AppCompatActivity {
         setContentView(R.layout.activity_otp);
         init();
     }
+    //is debugg
     private void init() {
         progressDialog = new ProgressDialog(this);
         progressDialog.setMessage("Please wait!");
